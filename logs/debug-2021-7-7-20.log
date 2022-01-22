@@ -1,0 +1,50 @@
+2021-07-07 20:27:26,789 Read Config Success
+2021-07-07 20:27:30,307 Wallet Connected
+2021-07-07 20:29:09,639 Read Config Success
+2021-07-07 20:29:10,983 Wallet Connected
+2021-07-07 20:29:36,849 Read Config Success
+2021-07-07 20:29:37,766 Wallet Connected
+2021-07-07 20:32:46,052 Read Config Success
+2021-07-07 20:32:54,408 Wallet Connected
+2021-07-07 20:43:17,647 Read Config Success
+2021-07-07 20:43:20,858 Wallet Connected
+2021-07-07 20:43:29,023 Start Bot
+2021-07-07 20:46:14,961 Read Config Success
+2021-07-07 20:46:43,864 Wallet Connected
+2021-07-07 20:47:43,847 Read Config Success
+2021-07-07 20:48:01,624 Wallet Connected
+2021-07-07 20:50:42,566 Start Bot
+2021-07-07 20:51:03,868 Start Sell
+2021-07-07 20:51:03,880 Insufficient Funds
+2021-07-07 20:51:13,871 Stop Bot
+2021-07-07 20:51:38,496 Read Config Success
+2021-07-07 20:52:05,309 Wallet Connected
+2021-07-07 20:52:21,026 Read Config Success
+2021-07-07 20:52:31,937 Wallet Connected
+2021-07-07 20:54:03,220 Read Config Success
+2021-07-07 20:54:05,540 Wallet Connected
+2021-07-07 20:54:16,419 Start Bot
+2021-07-07 20:54:17,666 Waiting liquidity to be added
+2021-07-07 20:54:20,919 Stop Bot
+2021-07-07 20:54:25,481 Start Bot
+2021-07-07 20:54:31,766 Wait until transaction completed...
+2021-07-07 20:54:31,766 Buy transaction: 0xe195470d58f815dc74546538ef5bfadbf17d7a2e7d3f169e42a7d3d1f017409a
+2021-07-07 20:54:40,680 Buy transaction confirmed
+2021-07-07 20:54:41,227 Checking the condition, current price:0.00296892, buy price:0.00296891
+2021-07-07 20:54:41,738 Checking the condition, current price:0.00296892, buy price:0.00296891
+2021-07-07 20:54:42,256 Checking the condition, current price:0.00296892, buy price:0.00296891
+2021-07-07 20:54:42,770 Checking the condition, current price:0.00296892, buy price:0.00296891
+2021-07-07 20:54:43,274 Checking the condition, current price:0.00296892, buy price:0.00296891
+2021-07-07 20:54:43,668 Start Sell
+2021-07-07 20:54:43,669 Sell Amount is bigger than balance, set to max..
+2021-07-07 20:54:43,670 Wait until transaction completed...
+2021-07-07 20:54:45,300 Sell transaction: 0xa37841ecb02fd9b98e2cc3c9d94f65b24a4a701c6b27c5855a386c79eba2e453
+2021-07-07 20:54:51,496 Sell transaction confirmed
+2021-07-07 20:55:04,639 Stop Bot
+2021-07-07 20:59:26,340 Read Config Success
+2021-07-07 20:59:37,959 Wallet Connected
+2021-07-07 20:59:56,359 Start Bot
+2021-07-07 21:00:07,153 Wait until transaction completed...
+2021-07-07 21:00:07,155 Buy transaction: 0x06c25e4b4dd6ffd9e6d087e53897af3150f920f175a4bc2029a98a7bd53c5aad
+2021-07-07 21:01:48,366 Buy error: HTTPSConnectionPool(host='late-bold-sound.bsc.quiknode.pro', port=443): Read timed out. (read timeout=10)
+2021-07-07 21:01:48,367 Retry ...

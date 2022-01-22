@@ -1,0 +1,220 @@
+2021-07-18 16:29:34,752 Read Config Success
+2021-07-18 16:29:36,922 Wallet Connected
+2021-07-18 16:29:38,174 You don't have enough Trini Token, You have to buy Trin Token!
+2021-07-18 16:29:48,715 Please Input Buy Amount!
+2021-07-18 16:29:53,106 You don't have enough Trini Token, You have to buy Trin Token!
+2021-07-18 16:30:09,062 Read Config Success
+2021-07-18 16:30:12,390 Wallet Connected
+2021-07-18 16:30:14,546 Access Level Tier 1: Snipping only,Autosell, Max Speed: 5
+2021-07-18 16:30:27,257 Read Config Success
+2021-07-18 16:30:28,634 Wallet Connected
+2021-07-18 16:30:30,606 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-18 16:30:48,181 Start Bot
+2021-07-18 16:30:48,968 Start Price:0.003262931435BNB
+2021-07-18 16:30:49,359 Checking the condition, current price:100.0%
+2021-07-18 16:30:50,793 Checking the condition, current price:100.00243%
+2021-07-18 16:30:52,169 Checking the condition, current price:100.00243%
+2021-07-18 16:30:53,501 Checking the condition, current price:100.00232%
+2021-07-18 16:30:54,894 Checking the condition, current price:100.00232%
+2021-07-18 16:30:55,537 Buy error: {'code': -32000, 'message': 'insufficient funds for gas * price + value'}
+2021-07-18 16:30:55,538 Retry ...
+2021-07-18 16:30:56,277 Checking the condition, current price:100.00232%
+2021-07-18 16:30:57,654 Checking the condition, current price:100.00232%
+2021-07-18 16:30:58,942 Checking the condition, current price:100.00231%
+2021-07-18 16:31:00,348 Checking the condition, current price:100.00218%
+2021-07-18 16:31:01,746 Checking the condition, current price:100.00218%
+2021-07-18 16:31:03,146 Checking the condition, current price:99.97355%
+2021-07-18 16:31:03,819 Buy error: {'code': -32000, 'message': 'insufficient funds for gas * price + value'}
+2021-07-18 16:31:03,820 Retry ...
+2021-07-18 16:31:04,534 Checking the condition, current price:99.97355%
+2021-07-18 16:31:05,903 Checking the condition, current price:99.97372%
+2021-07-18 16:31:07,257 Checking the condition, current price:99.97372%
+2021-07-18 16:31:08,580 Checking the condition, current price:99.97371%
+2021-07-18 16:31:08,643 Start Sell
+2021-07-18 16:31:08,644 Wait until transaction completed...
+2021-07-18 16:31:09,912 Checking the condition, current price:99.97371%
+2021-07-18 16:31:10,493 Sell error: {'code': -32000, 'message': 'insufficient funds for gas * price + value'}
+2021-07-18 16:31:10,494 Retry ...
+2021-07-18 16:31:11,215 Checking the condition, current price:99.97535%
+2021-07-18 16:31:12,555 Checking the condition, current price:99.97535%
+2021-07-18 16:31:13,855 Checking the condition, current price:99.97535%
+2021-07-18 16:31:15,239 Checking the condition, current price:99.98015%
+2021-07-18 16:31:15,315 Start Sell
+2021-07-18 16:31:15,316 Wait until transaction completed...
+2021-07-18 16:31:16,485 Checking the condition, current price:99.98015%
+2021-07-18 16:31:16,909 Sell error: {'code': -32000, 'message': 'insufficient funds for gas * price + value'}
+2021-07-18 16:31:16,909 Retry ...
+2021-07-18 16:31:17,808 Checking the condition, current price:99.98223%
+2021-07-18 16:31:19,167 Checking the condition, current price:99.98223%
+2021-07-18 16:31:20,557 Checking the condition, current price:99.98223%
+2021-07-18 16:31:21,939 Checking the condition, current price:99.98196%
+2021-07-18 16:31:23,313 Checking the condition, current price:99.98196%
+2021-07-18 16:31:24,755 Checking the condition, current price:99.97832%
+2021-07-18 16:31:25,734 Start Sell
+2021-07-18 16:31:25,735 Wait until transaction completed...
+2021-07-18 16:31:26,135 Checking the condition, current price:99.97832%
+2021-07-18 16:31:27,519 Checking the condition, current price:99.98095%
+2021-07-18 16:31:27,697 Sell error: {'code': -32000, 'message': 'insufficient funds for gas * price + value'}
+2021-07-18 16:31:27,697 Retry ...
+2021-07-18 16:31:28,774 Checking the condition, current price:99.98095%
+2021-07-18 16:31:30,170 Checking the condition, current price:99.98085%
+2021-07-18 16:31:31,518 Checking the condition, current price:99.98085%
+2021-07-18 16:31:32,745 Checking the condition, current price:99.98009%
+2021-07-18 16:31:34,028 Checking the condition, current price:99.98009%
+2021-07-18 16:31:35,427 Checking the condition, current price:99.98145%
+2021-07-18 16:31:36,761 Checking the condition, current price:99.98145%
+2021-07-18 16:31:38,020 Checking the condition, current price:99.98009%
+2021-07-18 16:31:39,214 Checking the condition, current price:99.98216%
+2021-07-18 16:31:40,449 Checking the condition, current price:99.98216%
+2021-07-18 16:31:41,663 Checking the condition, current price:99.9836%
+2021-07-18 16:31:42,897 Checking the condition, current price:99.9836%
+2021-07-18 16:31:44,204 Checking the condition, current price:99.98115%
+2021-07-18 16:31:45,611 Checking the condition, current price:99.98115%
+2021-07-18 16:31:46,958 Checking the condition, current price:99.98115%
+2021-07-18 16:31:48,264 Checking the condition, current price:99.987%
+2021-07-18 16:31:48,699 Stop Bot
+2021-07-18 16:31:59,010 Start Bot
+2021-07-18 16:31:59,644 Start Price:0.003262876724BNB
+2021-07-18 16:31:59,836 Checking the condition, current price:100.0%
+2021-07-18 16:32:00,531 Start Sell
+2021-07-18 16:32:00,532 Wait until transaction completed...
+2021-07-18 16:32:01,124 Checking the condition, current price:100.0%
+2021-07-18 16:32:02,341 Sell error: {'code': -32000, 'message': 'insufficient funds for gas * price + value'}
+2021-07-18 16:32:02,347 Retry ...
+2021-07-18 16:32:02,402 Checking the condition, current price:99.99995%
+2021-07-18 16:32:03,723 Checking the condition, current price:99.99995%
+2021-07-18 16:32:04,971 Checking the condition, current price:99.99995%
+2021-07-18 16:32:06,268 Checking the condition, current price:99.9991%
+2021-07-18 16:32:07,624 Checking the condition, current price:99.9991%
+2021-07-18 16:32:08,901 Checking the condition, current price:99.99938%
+2021-07-18 16:32:10,129 Checking the condition, current price:99.99938%
+2021-07-18 16:32:11,342 Checking the condition, current price:99.99938%
+2021-07-18 16:32:12,578 Checking the condition, current price:99.98352%
+2021-07-18 16:32:13,836 Checking the condition, current price:99.98352%
+2021-07-18 16:32:15,038 Checking the condition, current price:99.9835%
+2021-07-18 16:32:16,243 Checking the condition, current price:99.9835%
+2021-07-18 16:32:17,459 Checking the condition, current price:99.98405%
+2021-07-18 16:32:18,666 Checking the condition, current price:99.98405%
+2021-07-18 16:32:19,885 Checking the condition, current price:99.98405%
+2021-07-18 16:32:21,150 Checking the condition, current price:99.98411%
+2021-07-18 16:32:22,456 Checking the condition, current price:99.98411%
+2021-07-18 16:32:24,033 Checking the condition, current price:99.98544%
+2021-07-18 16:32:25,081 Checking the condition, current price:99.98544%
+2021-07-18 16:32:26,193 Checking the condition, current price:99.98544%
+2021-07-18 16:32:27,449 Checking the condition, current price:99.98466%
+2021-07-18 16:32:27,506 Start Sell
+2021-07-18 16:32:27,507 Wait until transaction completed...
+2021-07-18 16:32:28,717 Checking the condition, current price:99.98466%
+2021-07-18 16:32:28,851 Sell error: {'code': -32000, 'message': 'insufficient funds for gas * price + value'}
+2021-07-18 16:32:28,852 Retry ...
+2021-07-18 16:32:29,991 Checking the condition, current price:99.98466%
+2021-07-18 16:32:30,635 Start Sell
+2021-07-18 16:32:30,636 Wait until transaction completed...
+2021-07-18 16:32:31,277 Checking the condition, current price:99.98466%
+2021-07-18 16:32:32,420 Sell error: {'code': -32000, 'message': 'insufficient funds for gas * price + value'}
+2021-07-18 16:32:32,420 Retry ...
+2021-07-18 16:32:32,582 Checking the condition, current price:99.98492%
+2021-07-18 16:32:33,628 Stop Bot
+2021-07-18 16:32:33,962 Checking the condition, current price:99.98492%
+2021-07-18 16:32:39,485 Start Bot
+2021-07-18 16:32:40,049 Start Price:0.00326226491BNB
+2021-07-18 16:32:40,388 Checking the condition, current price:100.0%
+2021-07-18 16:32:41,736 Checking the condition, current price:100.00245%
+2021-07-18 16:32:42,123 Start Sell
+2021-07-18 16:32:42,124 Wait until transaction completed...
+2021-07-18 16:32:43,023 Checking the condition, current price:100.00245%
+2021-07-18 16:32:43,825 Sell error: {'code': -32000, 'message': 'insufficient funds for gas * price + value'}
+2021-07-18 16:32:43,825 Retry ...
+2021-07-18 16:32:44,323 Checking the condition, current price:100.00245%
+2021-07-18 16:32:45,548 Checking the condition, current price:100.00245%
+2021-07-18 16:32:45,756 Stop Bot
+2021-07-18 16:34:37,083 Read Config Success
+2021-07-18 16:34:38,808 Wallet Connected
+2021-07-18 16:34:40,506 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-18 16:34:47,612 Read Config Success
+2021-07-18 16:34:48,797 Wallet Connected
+2021-07-18 16:34:50,314 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-18 16:34:59,347 Start Bot
+2021-07-18 16:34:59,616 Waiting liquidity to be added
+2021-07-18 16:35:11,956 Stop Bot
+2021-07-18 16:35:17,767 Start Bot
+2021-07-18 16:35:18,147 Waiting liquidity to be added
+2021-07-18 16:35:22,915 Stop Bot
+2021-07-18 16:35:27,462 Start Bot
+2021-07-18 16:35:27,885 Start Price:0.003263254817BNB
+2021-07-18 16:35:28,142 Checking the condition, current price:100.0%
+2021-07-18 16:35:29,138 Start Sell
+2021-07-18 16:35:29,143 Wait until transaction completed...
+2021-07-18 16:35:29,362 Checking the condition, current price:100.0%
+2021-07-18 16:35:30,494 Sell error: {'code': -32000, 'message': 'insufficient funds for gas * price + value'}
+2021-07-18 16:35:30,495 Retry ...
+2021-07-18 16:35:30,602 Checking the condition, current price:100.00029%
+2021-07-18 16:35:31,815 Checking the condition, current price:100.00029%
+2021-07-18 16:35:33,037 Checking the condition, current price:100.00031%
+2021-07-18 16:35:34,267 Checking the condition, current price:100.00031%
+2021-07-18 16:35:35,226 Start Sell
+2021-07-18 16:35:35,230 Wait until transaction completed...
+2021-07-18 16:35:36,236 Checking the condition, current price:100.00159%
+2021-07-18 16:35:37,087 Sell error: {'code': -32000, 'message': 'insufficient funds for gas * price + value'}
+2021-07-18 16:35:37,088 Retry ...
+2021-07-18 16:35:37,475 Checking the condition, current price:100.00159%
+2021-07-18 16:35:38,778 Checking the condition, current price:100.00161%
+2021-07-18 16:35:40,004 Checking the condition, current price:100.00161%
+2021-07-18 16:35:41,203 Stop Bot
+2021-07-18 16:35:41,478 Checking the condition, current price:100.00097%
+2021-07-18 16:36:01,272 Read Config Success
+2021-07-18 16:36:03,051 Wallet Connected
+2021-07-18 16:36:04,625 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-18 16:36:11,737 Start Bot
+2021-07-18 16:36:12,161 Start Price:0.003263285137BNB
+2021-07-18 16:36:12,356 Checking the condition, current price:100.0%
+2021-07-18 16:36:13,565 Checking the condition, current price:100.0%
+2021-07-18 16:36:14,562 Start Sell
+2021-07-18 16:36:14,564 Wait until transaction completed...
+2021-07-18 16:36:15,229 Checking the condition, current price:99.99753%
+2021-07-18 16:36:15,959 Sell error: {'code': -32000, 'message': 'insufficient funds for gas * price + value'}
+2021-07-18 16:36:15,959 Retry ...
+2021-07-18 16:36:16,450 Checking the condition, current price:99.99753%
+2021-07-18 16:36:17,667 Checking the condition, current price:99.99785%
+2021-07-18 16:36:18,862 Checking the condition, current price:99.99785%
+2021-07-18 16:36:20,077 Checking the condition, current price:99.99785%
+2021-07-18 16:36:21,283 Checking the condition, current price:99.99788%
+2021-07-18 16:36:22,500 Checking the condition, current price:99.99788%
+2021-07-18 16:36:23,705 Checking the condition, current price:99.9979%
+2021-07-18 16:36:24,932 Checking the condition, current price:99.9979%
+2021-07-18 16:36:26,143 Checking the condition, current price:99.9979%
+2021-07-18 16:36:27,385 Checking the condition, current price:99.9979%
+2021-07-18 16:36:28,591 Checking the condition, current price:99.9979%
+2021-07-18 16:36:29,806 Checking the condition, current price:99.9979%
+2021-07-18 16:36:31,030 Checking the condition, current price:99.9979%
+2021-07-18 16:36:32,260 Checking the condition, current price:99.9979%
+2021-07-18 16:36:33,496 Checking the condition, current price:99.99788%
+2021-07-18 16:36:34,707 Checking the condition, current price:99.99788%
+2021-07-18 16:36:35,932 Checking the condition, current price:99.99789%
+2021-07-18 16:36:37,139 Checking the condition, current price:99.99789%
+2021-07-18 16:36:38,431 Checking the condition, current price:99.99789%
+2021-07-18 16:36:39,656 Checking the condition, current price:99.99789%
+2021-07-18 16:36:40,862 Checking the condition, current price:99.99789%
+2021-07-18 16:36:42,071 Checking the condition, current price:99.99789%
+2021-07-18 16:36:43,275 Checking the condition, current price:99.99541%
+2021-07-18 16:36:44,497 Checking the condition, current price:99.99538%
+2021-07-18 16:36:45,733 Checking the condition, current price:99.99538%
+2021-07-18 16:36:46,982 Checking the condition, current price:99.99538%
+2021-07-18 16:36:48,195 Checking the condition, current price:99.99534%
+2021-07-18 16:36:49,434 Checking the condition, current price:99.99538%
+2021-07-18 16:36:50,676 Checking the condition, current price:99.99534%
+2021-07-18 16:36:51,923 Checking the condition, current price:99.99408%
+2021-07-18 16:36:53,140 Checking the condition, current price:99.99408%
+2021-07-18 16:36:54,364 Checking the condition, current price:99.98973%
+2021-07-18 16:36:55,586 Checking the condition, current price:99.98973%
+2021-07-18 16:36:56,251 Start Sell
+2021-07-18 16:36:56,256 Wait until transaction completed...
+2021-07-18 16:36:56,792 Checking the condition, current price:99.99516%
+2021-07-18 16:36:57,646 Sell error: {'code': -32000, 'message': 'insufficient funds for gas * price + value'}
+2021-07-18 16:36:57,647 Retry ...
+2021-07-18 16:36:57,990 Checking the condition, current price:99.99516%
+2021-07-18 16:36:59,198 Checking the condition, current price:99.99532%
+2021-07-18 16:37:00,419 Checking the condition, current price:99.99532%
+2021-07-18 16:37:00,875 Stop Bot
+2021-07-18 16:42:25,993 Sell transaction failed
+2021-07-18 16:43:05,347 Sell transaction failed

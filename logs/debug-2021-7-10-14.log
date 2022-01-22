@@ -1,0 +1,5 @@
+2021-07-10 14:14:26,125 Read Config Success
+2021-07-10 14:14:28,363 Wallet Connected
+2021-07-10 16:16:43,766 Please Input Buy Amount!
+2021-07-10 16:46:51,466 Token Address Wrong: Unknown format , attempted to normalize to 0x
+2021-07-10 16:46:58,048 Token Address Wrong: when sending a str, it must be a hex string. Got: 'v'

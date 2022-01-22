@@ -1,0 +1,269 @@
+2021-07-31 14:07:59,372 Read Config Success
+2021-07-31 14:08:00,212 Wallet Connected
+2021-07-31 14:08:01,613 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-31 14:08:33,333 Start Bot
+2021-07-31 14:08:33,340 Token Address : 0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56, Presale Address : 
+2021-07-31 14:08:33,343 Buy Amount : 0.001, Sell Amount Percent : 100%, Sell Price : 0%, Buy Speed : 1.0, Sell Speed : 1.0
+2021-07-31 14:08:33,554 Waiting liquidity to be added
+2021-07-31 14:08:53,045 Liquidity Added : 0x4ec3a042951c5cb23ebad37d5cdfa5d8345934778e8bddbc7aa918a7c7c461a3
+2021-07-31 14:08:53,311 Buy transaction: 0x690e33f86ff5f79aa9b8fa99c3aa54b7317826165e1b7c2ea10c7a6003e27010
+2021-07-31 14:09:00,385 Buy transaction confirmed
+2021-07-31 14:09:00,386 Waiting Sell Moment....
+2021-07-31 14:09:00,630 Checking the condition, current price:100.0%
+2021-07-31 14:09:01,362 Checking the condition, current price:100.0%
+2021-07-31 14:09:02,085 Checking the condition, current price:100.0%
+2021-07-31 14:09:02,816 Checking the condition, current price:99.99754%
+2021-07-31 14:09:03,681 Checking the condition, current price:99.99754%
+2021-07-31 14:09:04,408 Checking the condition, current price:99.99754%
+2021-07-31 14:09:05,130 Checking the condition, current price:99.99754%
+2021-07-31 14:09:05,852 Checking the condition, current price:99.99754%
+2021-07-31 14:09:06,589 Checking the condition, current price:99.99936%
+2021-07-31 14:09:07,320 Checking the condition, current price:99.99936%
+2021-07-31 14:09:08,065 Checking the condition, current price:99.99936%
+2021-07-31 14:09:08,781 Checking the condition, current price:100.00002%
+2021-07-31 14:09:09,498 Checking the condition, current price:100.00002%
+2021-07-31 14:09:10,217 Checking the condition, current price:100.00002%
+2021-07-31 14:09:10,936 Checking the condition, current price:100.00002%
+2021-07-31 14:09:11,687 Checking the condition, current price:99.99364%
+2021-07-31 14:09:12,407 Checking the condition, current price:99.99364%
+2021-07-31 14:09:13,132 Checking the condition, current price:99.99364%
+2021-07-31 14:09:13,852 Checking the condition, current price:99.99368%
+2021-07-31 14:09:14,589 Checking the condition, current price:99.99368%
+2021-07-31 14:09:15,315 Checking the condition, current price:99.99368%
+2021-07-31 14:09:16,149 Checking the condition, current price:99.99368%
+2021-07-31 14:09:16,899 Checking the condition, current price:99.99368%
+2021-07-31 14:09:17,623 Checking the condition, current price:99.99249%
+2021-07-31 14:09:18,357 Checking the condition, current price:99.99249%
+2021-07-31 14:09:19,102 Checking the condition, current price:99.99249%
+2021-07-31 14:09:19,900 Checking the condition, current price:99.96414%
+2021-07-31 14:09:20,615 Checking the condition, current price:99.96414%
+2021-07-31 14:09:21,343 Checking the condition, current price:99.96414%
+2021-07-31 14:09:22,079 Checking the condition, current price:99.96414%
+2021-07-31 14:09:22,806 Checking the condition, current price:99.96414%
+2021-07-31 14:09:23,541 Checking the condition, current price:99.96421%
+2021-07-31 14:09:24,274 Checking the condition, current price:99.96421%
+2021-07-31 14:09:24,997 Checking the condition, current price:99.96421%
+2021-07-31 14:09:25,719 Checking the condition, current price:99.96421%
+2021-07-31 14:09:26,451 Checking the condition, current price:99.96421%
+2021-07-31 14:09:27,180 Checking the condition, current price:99.97474%
+2021-07-31 14:09:27,897 Checking the condition, current price:99.97474%
+2021-07-31 14:09:28,612 Checking the condition, current price:99.93428%
+2021-07-31 14:09:29,331 Checking the condition, current price:99.93428%
+2021-07-31 14:09:30,046 Checking the condition, current price:99.93428%
+2021-07-31 14:09:30,768 Checking the condition, current price:99.93428%
+2021-07-31 14:09:31,487 Checking the condition, current price:99.93243%
+2021-07-31 14:09:32,232 Checking the condition, current price:99.93243%
+2021-07-31 14:09:32,959 Checking the condition, current price:99.93243%
+2021-07-31 14:09:33,686 Checking the condition, current price:99.93243%
+2021-07-31 14:09:34,420 Checking the condition, current price:99.93243%
+2021-07-31 14:09:35,143 Checking the condition, current price:99.93243%
+2021-07-31 14:09:35,880 Checking the condition, current price:99.9086%
+2021-07-31 14:09:36,597 Checking the condition, current price:99.9086%
+2021-07-31 14:09:37,325 Checking the condition, current price:99.9086%
+2021-07-31 14:09:38,042 Checking the condition, current price:99.9086%
+2021-07-31 14:09:38,758 Checking the condition, current price:99.90802%
+2021-07-31 14:09:39,474 Checking the condition, current price:99.90802%
+2021-07-31 14:09:40,196 Checking the condition, current price:99.90802%
+2021-07-31 14:09:40,925 Checking the condition, current price:99.90802%
+2021-07-31 14:09:41,647 Checking the condition, current price:99.90521%
+2021-07-31 14:09:42,369 Checking the condition, current price:99.90521%
+2021-07-31 14:09:43,120 Checking the condition, current price:99.90521%
+2021-07-31 14:09:43,840 Checking the condition, current price:99.90521%
+2021-07-31 14:09:44,556 Checking the condition, current price:99.90521%
+2021-07-31 14:09:45,273 Checking the condition, current price:99.90049%
+2021-07-31 14:09:46,010 Checking the condition, current price:99.90049%
+2021-07-31 14:09:46,736 Checking the condition, current price:99.90049%
+2021-07-31 14:09:47,464 Checking the condition, current price:99.90049%
+2021-07-31 14:09:48,193 Checking the condition, current price:99.90061%
+2021-07-31 14:09:48,916 Checking the condition, current price:99.90061%
+2021-07-31 14:09:49,640 Checking the condition, current price:99.90061%
+2021-07-31 14:09:50,375 Checking the condition, current price:99.90104%
+2021-07-31 14:09:51,095 Checking the condition, current price:99.90104%
+2021-07-31 14:09:51,830 Checking the condition, current price:99.90104%
+2021-07-31 14:09:52,550 Checking the condition, current price:99.90104%
+2021-07-31 14:09:53,319 Checking the condition, current price:99.90104%
+2021-07-31 14:09:54,073 Checking the condition, current price:99.90101%
+2021-07-31 14:09:54,807 Checking the condition, current price:99.90101%
+2021-07-31 14:09:55,532 Checking the condition, current price:99.90102%
+2021-07-31 14:09:56,306 Checking the condition, current price:99.90102%
+2021-07-31 14:09:57,024 Checking the condition, current price:99.90102%
+2021-07-31 14:09:57,744 Checking the condition, current price:99.90102%
+2021-07-31 14:09:58,474 Checking the condition, current price:99.90102%
+2021-07-31 14:10:06,922 Checking the condition, current price:99.90103%
+2021-07-31 14:10:07,676 Checking the condition, current price:99.90106%
+2021-07-31 14:10:08,399 Checking the condition, current price:99.90106%
+2021-07-31 14:10:09,131 Checking the condition, current price:99.89804%
+2021-07-31 14:10:09,864 Checking the condition, current price:99.89804%
+2021-07-31 14:10:10,646 Checking the condition, current price:99.89804%
+2021-07-31 14:10:11,407 Checking the condition, current price:99.89804%
+2021-07-31 14:10:12,245 Checking the condition, current price:99.89811%
+2021-07-31 14:10:13,067 Checking the condition, current price:99.89811%
+2021-07-31 14:10:13,851 Checking the condition, current price:99.89811%
+2021-07-31 14:10:14,689 Checking the condition, current price:99.89811%
+2021-07-31 14:10:15,417 Checking the condition, current price:99.89781%
+2021-07-31 14:10:16,136 Checking the condition, current price:99.89781%
+2021-07-31 14:10:16,857 Checking the condition, current price:99.89781%
+2021-07-31 14:10:17,587 Checking the condition, current price:99.89777%
+2021-07-31 14:10:18,323 Checking the condition, current price:99.89777%
+2021-07-31 14:10:19,038 Checking the condition, current price:99.89881%
+2021-07-31 14:10:19,760 Checking the condition, current price:99.89881%
+2021-07-31 14:10:20,497 Checking the condition, current price:99.89881%
+2021-07-31 14:10:21,274 Checking the condition, current price:99.89881%
+2021-07-31 14:10:21,995 Checking the condition, current price:99.89881%
+2021-07-31 14:10:22,714 Checking the condition, current price:99.89881%
+2021-07-31 14:10:23,450 Checking the condition, current price:99.89989%
+2021-07-31 14:10:24,709 Checking the condition, current price:99.89989%
+2021-07-31 14:10:25,435 Checking the condition, current price:99.89989%
+2021-07-31 14:10:26,172 Checking the condition, current price:99.89989%
+2021-07-31 14:10:26,902 Checking the condition, current price:99.90013%
+2021-07-31 14:10:27,620 Checking the condition, current price:99.90013%
+2021-07-31 14:10:28,367 Checking the condition, current price:99.90013%
+2021-07-31 14:10:29,281 Checking the condition, current price:99.90013%
+2021-07-31 14:10:30,027 Checking the condition, current price:99.90025%
+2021-07-31 14:10:30,777 Checking the condition, current price:99.90025%
+2021-07-31 14:10:31,491 Checking the condition, current price:99.90025%
+2021-07-31 14:10:32,214 Checking the condition, current price:99.90025%
+2021-07-31 14:10:32,975 Checking the condition, current price:99.90201%
+2021-07-31 14:10:33,693 Checking the condition, current price:99.90201%
+2021-07-31 14:10:34,415 Checking the condition, current price:99.90201%
+2021-07-31 14:10:35,146 Checking the condition, current price:99.90201%
+2021-07-31 14:10:35,890 Checking the condition, current price:99.90201%
+2021-07-31 14:10:36,612 Checking the condition, current price:99.86469%
+2021-07-31 14:10:37,332 Checking the condition, current price:99.86095%
+2021-07-31 14:10:38,051 Checking the condition, current price:99.86095%
+2021-07-31 14:10:38,777 Checking the condition, current price:99.86095%
+2021-07-31 14:10:39,497 Checking the condition, current price:99.86095%
+2021-07-31 14:10:40,216 Checking the condition, current price:99.86095%
+2021-07-31 14:10:40,946 Checking the condition, current price:99.86095%
+2021-07-31 14:10:41,666 Checking the condition, current price:99.85101%
+2021-07-31 14:10:42,440 Checking the condition, current price:99.85101%
+2021-07-31 14:10:43,159 Checking the condition, current price:99.85101%
+2021-07-31 14:10:43,884 Checking the condition, current price:99.85101%
+2021-07-31 14:10:44,613 Checking the condition, current price:99.80027%
+2021-07-31 14:10:45,337 Checking the condition, current price:99.80027%
+2021-07-31 14:10:46,089 Checking the condition, current price:99.80027%
+2021-07-31 14:10:46,803 Checking the condition, current price:99.80027%
+2021-07-31 14:10:47,533 Checking the condition, current price:99.80027%
+2021-07-31 14:10:48,260 Checking the condition, current price:99.77856%
+2021-07-31 14:10:48,991 Checking the condition, current price:99.77856%
+2021-07-31 14:10:49,718 Checking the condition, current price:99.77856%
+2021-07-31 14:10:50,450 Checking the condition, current price:99.77856%
+2021-07-31 14:10:51,214 Checking the condition, current price:99.77765%
+2021-07-31 14:10:51,944 Checking the condition, current price:99.77765%
+2021-07-31 14:10:52,669 Checking the condition, current price:99.77765%
+2021-07-31 14:10:53,436 Checking the condition, current price:99.77765%
+2021-07-31 14:10:54,187 Checking the condition, current price:99.77765%
+2021-07-31 14:10:55,030 Checking the condition, current price:99.77765%
+2021-07-31 14:10:55,761 Checking the condition, current price:99.77765%
+2021-07-31 14:10:56,494 Checking the condition, current price:99.77862%
+2021-07-31 14:10:57,233 Checking the condition, current price:99.77862%
+2021-07-31 14:10:57,971 Checking the condition, current price:99.77862%
+2021-07-31 14:10:58,812 Checking the condition, current price:99.77862%
+2021-07-31 14:10:59,529 Checking the condition, current price:99.77861%
+2021-07-31 14:10:59,761 Stop Bot
+2021-07-31 14:11:12,793 Start Bot
+2021-07-31 14:11:12,801 Token Address : 0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56, Presale Address : 
+2021-07-31 14:11:12,802 Buy Amount : 0.001, Sell Amount Percent : 100%, Sell Price : 90.0%, Buy Speed : 1.0, Sell Speed : 1.0
+2021-07-31 14:11:13,090 Waiting liquidity to be added
+2021-07-31 14:11:25,507 Stop Bot
+2021-07-31 14:11:30,106 Start Bot
+2021-07-31 14:11:30,112 Token Address : 0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56, Presale Address : 
+2021-07-31 14:11:30,113 Buy Amount : 0.001, Sell Amount Percent : 100%, Sell Price : 90.0%, Buy Speed : 1.0, Sell Speed : 1.0
+2021-07-31 14:11:30,559 Start Price:0.002966844346BNB
+2021-07-31 14:11:30,779 Checking the condition, current price:100.0%
+2021-07-31 14:11:32,006 Checking the condition, current price:100.0%
+2021-07-31 14:11:33,224 Checking the condition, current price:100.00388%
+2021-07-31 14:11:34,457 Checking the condition, current price:100.00388%
+2021-07-31 14:11:35,690 Checking the condition, current price:100.00388%
+2021-07-31 14:11:36,915 Checking the condition, current price:100.00271%
+2021-07-31 14:11:38,143 Checking the condition, current price:100.00271%
+2021-07-31 14:11:39,373 Checking the condition, current price:100.00292%
+2021-07-31 14:11:40,597 Checking the condition, current price:100.00292%
+2021-07-31 14:11:41,236 Stop Bot
+2021-07-31 14:14:10,223 Read Config Success
+2021-07-31 14:14:11,530 Wallet Connected
+2021-07-31 14:14:12,954 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-31 14:14:16,766 Start Bot
+2021-07-31 14:14:16,773 Token Address : 0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56, Presale Address : 
+2021-07-31 14:14:16,774 Buy Amount : 0.0, Sell Amount Percent : 100%, Sell Price : 0%, Buy Speed : 1.0, Sell Speed : 1.0
+2021-07-31 14:14:17,042 Waiting Sell Moment....
+2021-07-31 14:14:17,522 Checking the condition, current price:100.0%
+2021-07-31 14:14:18,262 Checking the condition, current price:99.99847%
+2021-07-31 14:14:18,997 Checking the condition, current price:99.99847%
+2021-07-31 14:14:19,724 Checking the condition, current price:99.99847%
+2021-07-31 14:14:20,446 Checking the condition, current price:99.9986%
+2021-07-31 14:14:21,161 Checking the condition, current price:99.9986%
+2021-07-31 14:14:21,891 Checking the condition, current price:99.9986%
+2021-07-31 14:14:22,612 Checking the condition, current price:99.9986%
+2021-07-31 14:14:23,054 Stop Bot
+2021-07-31 14:16:27,535 Read Config Success
+2021-07-31 14:16:28,449 Wallet Connected
+2021-07-31 14:16:29,771 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-31 14:16:34,524 Start Bot
+2021-07-31 14:16:34,531 Token Address : 0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56, Presale Address : 
+2021-07-31 14:16:34,532 Buy Amount : 0.0, Sell Amount Percent : 100%, Sell Price : 0%, Buy Speed : 1.0, Sell Speed : 1.0
+2021-07-31 14:16:34,810 Waiting Sell Moment....
+2021-07-31 14:16:35,294 Checking the condition, current price:100.0%
+2021-07-31 14:16:35,790 Stop Bot
+2021-07-31 14:16:43,116 Start Bot
+2021-07-31 14:16:43,123 Token Address : 0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56, Presale Address : 
+2021-07-31 14:16:43,123 Buy Amount : 0.0, Sell Amount Percent : 100%, Sell Price : 90.0%, Buy Speed : 1.0, Sell Speed : 1.0
+2021-07-31 14:16:43,378 Waiting Sell Moment....
+2021-07-31 14:16:43,799 Checking the condition, current price:100.0%
+2021-07-31 14:16:43,800 Start Sell
+2021-07-31 14:16:43,800 Wait until transaction completed...
+2021-07-31 14:16:44,857 Sell transaction: 0xb5aabdd06a48cce9600573c723cbb2a52a043c7130a0b921437469d04aa70648
+2021-07-31 14:16:51,773 Stop Bot
+2021-07-31 14:16:53,168 Sell transaction confirmed
+2021-07-31 14:30:45,126 Read Config Success
+2021-07-31 14:30:46,048 Wallet Connected
+2021-07-31 14:30:47,400 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-31 14:31:10,772 Read Config Success
+2021-07-31 14:31:11,670 Wallet Connected
+2021-07-31 14:33:41,923 Read Config Success
+2021-07-31 14:33:48,137 Wallet Connected
+2021-07-31 14:33:49,282 You don't have enough Trini Token, You have to buy Trin Token!
+2021-07-31 14:33:53,394 Read Config Success
+2021-07-31 14:33:54,281 Wallet Connected
+2021-07-31 14:44:08,989 Read Config Success
+2021-07-31 14:44:10,549 Wallet Connected
+2021-07-31 14:44:11,223 You don't have enough Trini Token, You have to buy Trin Token!
+2021-07-31 14:50:36,344 Read Config Success
+2021-07-31 14:52:47,485 Read Config Success
+2021-07-31 14:52:48,523 Wallet Connected
+2021-07-31 14:52:49,440 You don't have enough Trini Token, You have to buy Trin Token!
+2021-07-31 14:54:10,685 Read Config Success
+2021-07-31 14:54:11,990 Wallet Connected
+2021-07-31 14:54:12,700 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-31 14:54:20,243 Token Address Wrong: when sending a str, it must be a hex string. Got: 'threading.thread(target='
+2021-07-31 14:54:22,759 Token Address Wrong: Unknown format , attempted to normalize to 0x
+2021-07-31 14:54:36,609 Read Config Success
+2021-07-31 14:54:37,938 Wallet Connected
+2021-07-31 14:56:22,817 Start Bot
+2021-07-31 14:56:22,824 Token Address : 0xF4Ed363144981D3A65f42e7D0DC54FF9EEf559A1, Presale Address : 
+2021-07-31 14:56:22,827 Buy Amount : 0.0, Sell Amount Percent : 100%, Sell Price : 0%, Buy Speed : 1.0, Sell Speed : 1.0
+2021-07-31 14:56:23,045 Waiting Sell Moment....
+2021-07-31 14:56:23,459 Checking the condition, current price:100.0%
+2021-07-31 14:56:23,461 Start Sell
+2021-07-31 14:56:23,461 Wait until transaction completed...
+2021-07-31 14:56:34,227 Stop Bot
+2021-07-31 14:56:37,794 Sell transaction: 0xf0e2b5b25f70dec8f86305821680c5396cdb9ed9ef82c0c13fcbf9e6712a7ae6
+2021-07-31 14:56:44,656 Sell transaction confirmed
+2021-07-31 14:57:07,459 Start Bot
+2021-07-31 14:57:07,469 Token Address : 0xF4Ed363144981D3A65f42e7D0DC54FF9EEf559A1, Presale Address : 
+2021-07-31 14:57:07,472 Buy Amount : 2.0, Sell Amount Percent : 100%, Sell Price : 0%, Buy Speed : 1.0, Sell Speed : 1.0
+2021-07-31 14:57:07,679 Waiting liquidity to be added
+2021-07-31 14:57:16,977 Stop Bot
+2021-07-31 14:57:22,773 Start Bot
+2021-07-31 14:57:22,779 Token Address : 0xF4Ed363144981D3A65f42e7D0DC54FF9EEf559A1, Presale Address : 
+2021-07-31 14:57:22,781 Buy Amount : 2.0, Sell Amount Percent : 100%, Sell Price : 0%, Buy Speed : 1.0, Sell Speed : 1.0
+2021-07-31 14:57:23,251 Start Price:0.013439692146BNB
+2021-07-31 14:57:23,462 Checking the condition, current price:100.0%
+2021-07-31 14:57:24,688 Checking the condition, current price:100.0%
+2021-07-31 14:57:25,915 Checking the condition, current price:100.0%
+2021-07-31 14:57:27,043 Buy transaction: 0x4c61a0b6855159af54d758f215ebc0e87f4716c45ea2c4897c5263734fd3f924
+2021-07-31 14:57:36,627 Buy transaction confirmed
+2021-07-31 14:57:51,803 Stop Bot
+2021-07-31 14:59:46,240 Read Config Success
+2021-07-31 14:59:47,618 Wallet Connected
+2021-07-31 14:59:48,430 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss

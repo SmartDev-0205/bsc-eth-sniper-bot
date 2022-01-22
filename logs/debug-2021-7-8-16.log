@@ -1,0 +1,9 @@
+2021-07-08 16:58:03,267 Read Config Success
+2021-07-08 16:58:07,568 Wallet Connected
+2021-07-08 16:58:14,566 Start Bot
+2021-07-08 16:58:14,942 Waiting liquidity to be added
+2021-07-08 16:58:49,304 Liquidity Added : 0xe8e8fde909e53318318ecbb15e08a6ec5b631f027ff9e61c4d251472e12f57cf
+2021-07-08 16:58:49,316 Start Buy
+2021-07-08 16:58:49,783 Wait until transaction completed...
+2021-07-08 16:58:49,791 Buy transaction: 0xacdd8014df3c92221c0228687b68a3f51afe7b41eb0db6ea938fb8b94bf75766
+2021-07-08 17:00:05,221 Stop Bot

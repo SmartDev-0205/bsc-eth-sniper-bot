@@ -1,0 +1,58 @@
+2021-07-13 12:23:37,132 Read Config Success
+2021-07-13 12:23:39,271 Wallet Connected
+2021-07-13 12:23:49,919 Token Address Invalid(example: 0xe9e7cea3dedca5984780bafc599bd69add087d56
+2021-07-13 12:23:54,346 Token Address Wrong: Unknown format , attempted to normalize to 0x
+2021-07-13 12:24:31,830 Token Address Wrong: Unknown format 0e9e7cea3dedca5984780bafc599bd69add087d56, attempted to normalize to 0x0e9e7cea3dedca5984780bafc599bd69add087d56
+2021-07-13 12:24:32,328 Token Address Wrong: Unknown format , attempted to normalize to 0x
+2021-07-13 12:24:34,439 Token Address Wrong: Unknown format 0e9e7cea3dedca5984780bafc599bd69add087d56, attempted to normalize to 0x0e9e7cea3dedca5984780bafc599bd69add087d56
+2021-07-13 12:24:35,493 Token Address Wrong: Unknown format , attempted to normalize to 0x
+2021-07-13 12:24:57,459 Token Address Wrong: Unknown format , attempted to normalize to 0x
+2021-07-13 12:24:58,461 Token Address Wrong: Unknown format , attempted to normalize to 0x
+2021-07-13 12:25:28,978 Read Config Success
+2021-07-13 12:25:30,989 Wallet Connected
+2021-07-13 12:25:42,401 Start Bot
+2021-07-13 12:26:03,143 Stop Bot
+2021-07-13 12:26:06,567 Start Bot
+2021-07-13 12:26:09,842 Wait until transaction completed...
+2021-07-13 12:26:09,843 Buy transaction: 0x27b45aa3f9ce35c0d2f4ba9182079e9992a99f8101f8b1330e7b3ac381021048
+2021-07-13 12:26:18,564 Buy transaction confirmed
+2021-07-13 12:26:18,935 Checking the condition, current price:0.00316779, buy price:0.00316779
+2021-07-13 12:26:19,681 Checking the condition, current price:0.00316779, buy price:0.00316779
+2021-07-13 12:26:20,473 Checking the condition, current price:0.00316779, buy price:0.00316779
+2021-07-13 12:26:21,356 Checking the condition, current price:0.00316779, buy price:0.00316779
+2021-07-13 12:26:21,538 Start Sell
+2021-07-13 12:26:21,544 Sell Amount is bigger than balance, set to max..
+2021-07-13 12:26:21,547 Wait until transaction completed...
+2021-07-13 12:26:22,239 Checking the condition, current price:0.00316779, buy price:0.00316779
+2021-07-13 12:26:23,794 Sell transaction: 0xd2eead1ddc9ae7502df65750c4ff8f62e703687dd35202e4278e242bdea11763
+2021-07-13 12:26:28,542 Sell transaction confirmed
+2021-07-13 12:26:40,327 Stop Bot
+2021-07-13 12:29:07,890 Read Config Success
+2021-07-13 12:29:09,885 Wallet Connected
+2021-07-13 12:29:22,309 Read Config Success
+2021-07-13 12:29:25,016 Wallet Connected
+2021-07-13 12:29:39,075 Start Bot
+2021-07-13 12:29:43,571 Waiting Until Buy Confirm
+2021-07-13 12:29:44,057 Buy transaction: 0x58f1c045afb3f1898c377e2c7dfd36a976e308574f2cc1d6d0f56a2abdececd2
+2021-07-13 12:29:51,074 Buy transaction confirmed
+2021-07-13 12:29:51,849 Checking the condition, current price:0.00316809, buy price:0.00316809
+2021-07-13 12:29:53,386 Checking the condition, current price:0.0031681, buy price:0.00316809
+2021-07-13 12:29:53,784 Checking the condition, current price:0.0031681, buy price:0.00316809
+2021-07-13 12:29:53,797 Start Sell
+2021-07-13 12:29:53,805 Wait until transaction completed...
+2021-07-13 12:29:54,576 Checking the condition, current price:0.0031681, buy price:0.00316809
+2021-07-13 12:29:55,483 Sell transaction: 0x987bd003e54b713d7db699d7769b61d8ed8936930ebb0450e32d2556b7343026
+2021-07-13 12:30:01,252 Sell transaction confirmed
+2021-07-13 12:30:08,871 Stop Bot
+2021-07-13 12:40:42,559 Read Config Success
+2021-07-13 12:40:44,785 Wallet Connected
+2021-07-13 12:40:55,988 Start Bot
+2021-07-13 12:41:09,838 Stop Bot
+2021-07-13 12:41:50,370 Read Config Success
+2021-07-13 12:41:52,035 Wallet Connected
+2021-07-13 12:42:00,326 Start Bot
+2021-07-13 12:42:00,665 Waiting liquidity to be added
+2021-07-13 12:42:46,782 Read Config Success
+2021-07-13 12:42:48,716 Wallet Connected
+2021-07-13 12:43:39,377 Start Bot
+2021-07-13 12:44:19,662 Stop Bot

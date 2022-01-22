@@ -1,0 +1,16 @@
+2021-07-18 18:28:56,275 Read Config Success
+2021-07-18 18:28:57,521 Wallet Connected
+2021-07-18 18:28:59,074 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-18 18:29:08,050 Please Input Buy Amount!
+2021-07-18 18:29:13,904 Start Bot
+2021-07-18 18:29:14,324 Start Price:0.003296638296BNB
+2021-07-18 18:29:14,519 Checking the condition, current price:100.00019%
+2021-07-18 18:29:15,719 Checking the condition, current price:100.00019%
+2021-07-18 18:29:16,923 Checking the condition, current price:100.00019%
+2021-07-18 18:29:17,869 Buy transaction: 0x9249986f710b2fbc4359c25a1f10da5dc45c94b37c7ec6b56ccc4d6cb2d77fd7
+2021-07-18 18:29:25,442 Buy transaction confirmed
+2021-07-18 18:29:25,445 Waiting Sell Moment....
+2021-07-18 18:29:25,639 Checking the condition, current price:100.0%
+2021-07-18 18:29:26,344 Checking the condition, current price:100.0%
+2021-07-18 18:29:27,044 Checking the condition, current price:100.00038%
+2021-07-18 18:29:27,361 Stop Bot

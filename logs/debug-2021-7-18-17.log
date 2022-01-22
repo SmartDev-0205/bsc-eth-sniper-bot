@@ -1,0 +1,82 @@
+2021-07-18 17:00:27,933 Read Config Success
+2021-07-18 17:00:29,383 Wallet Connected
+2021-07-18 17:00:30,914 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-18 17:00:36,884 Read Config Success
+2021-07-18 17:00:37,928 Wallet Connected
+2021-07-18 17:00:41,476 Please Input Buy Amount!
+2021-07-18 17:00:46,961 Start Bot
+2021-07-18 17:00:48,155 Buy transaction: 0x79e9eb1b4f596803c327c742015a1a7dfb14b46fa1bb058c11427f847eef42ab
+2021-07-18 17:01:01,626 Stop Bot
+2021-07-18 17:02:08,458 Read Config Success
+2021-07-18 17:02:10,112 Wallet Connected
+2021-07-18 17:02:11,611 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-18 17:02:13,634 Read Config Success
+2021-07-18 17:02:14,737 Wallet Connected
+2021-07-18 17:02:17,578 Please Input Buy Amount!
+2021-07-18 17:02:23,306 Start Bot
+2021-07-18 17:02:57,442 Read Config Success
+2021-07-18 17:02:58,455 Wallet Connected
+2021-07-18 17:02:59,896 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-18 17:03:04,519 Read Config Success
+2021-07-18 17:03:05,965 Wallet Connected
+2021-07-18 17:07:05,265 Read Config Success
+2021-07-18 17:07:06,513 Wallet Connected
+2021-07-18 17:07:08,036 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-18 17:07:13,818 Please Input Buy Amount!
+2021-07-18 17:07:14,210 Please Input Buy Amount!
+2021-07-18 17:07:18,789 Start Bot
+2021-07-18 17:07:19,187 Start Price:0.003273583673BNB
+2021-07-18 17:07:19,384 Checking the condition, current price:100.0%
+2021-07-18 17:07:20,588 Checking the condition, current price:100.01594%
+2021-07-18 17:07:21,837 Checking the condition, current price:100.01594%
+2021-07-18 17:07:23,036 Checking the condition, current price:100.01606%
+2021-07-18 17:07:24,298 Checking the condition, current price:100.01606%
+2021-07-18 17:07:25,051 Stop Bot
+2021-07-18 17:07:28,620 Start Bot
+2021-07-18 17:07:28,826 Waiting Sell Moment....
+2021-07-18 17:08:03,535 Read Config Success
+2021-07-18 17:08:04,619 Wallet Connected
+2021-07-18 17:08:06,269 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-18 17:08:12,582 Start Bot
+2021-07-18 17:08:12,842 Waiting liquidity to be added
+2021-07-18 17:08:16,027 Stop Bot
+2021-07-18 17:08:19,828 Start Bot
+2021-07-18 17:08:20,034 Waiting Sell Moment....
+2021-07-18 17:08:20,427 Checking the condition, current price:100.0%
+2021-07-18 17:08:20,429 Start Sell
+2021-07-18 17:08:20,431 Wait until transaction completed...
+2021-07-18 17:08:21,823 Sell transaction: 0xd038f793c3784c286f601440decca77f4fe4742498d3e689cff074d160fd663a
+2021-07-18 17:08:27,291 Stop Bot
+2021-07-18 17:08:27,525 Sell transaction confirmed
+2021-07-18 17:11:32,086 Read Config Success
+2021-07-18 17:11:33,673 Wallet Connected
+2021-07-18 17:11:35,877 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-18 17:11:42,473 Start Bot
+2021-07-18 17:11:42,761 Waiting liquidity to be added
+2021-07-18 17:12:11,642 Stop Bot
+2021-07-18 17:12:14,992 Start Bot
+2021-07-18 17:12:15,413 Waiting Sell Moment....
+2021-07-18 17:12:16,029 Checking the condition, current price:100.0%
+2021-07-18 17:12:16,911 Checking the condition, current price:100.0%
+2021-07-18 17:12:17,652 Checking the condition, current price:100.0%
+2021-07-18 17:12:18,460 Checking the condition, current price:100.0%
+2021-07-18 17:12:19,303 Checking the condition, current price:100.00002%
+2021-07-18 17:12:20,102 Checking the condition, current price:100.00002%
+2021-07-18 17:12:20,902 Checking the condition, current price:100.00051%
+2021-07-18 17:12:22,270 Checking the condition, current price:100.00002%
+2021-07-18 17:12:23,075 Checking the condition, current price:100.00051%
+2021-07-18 17:12:23,887 Checking the condition, current price:100.00052%
+2021-07-18 17:12:23,964 Stop Bot
+2021-07-18 17:42:52,917 Read Config Success
+2021-07-18 17:42:54,282 Wallet Connected
+2021-07-18 17:42:56,769 Start Bot
+2021-07-18 17:42:56,973 Waiting liquidity to be added
+2021-07-18 18:28:03,355 Stop Bot
+2021-07-18 18:28:10,165 Read Config Success
+2021-07-18 18:28:11,195 Wallet Connected
+2021-07-18 18:28:15,186 Start Bot
+2021-07-18 18:28:15,434 Waiting Sell Moment....
+2021-07-18 18:28:20,420 Stop Bot
+2021-07-18 18:28:24,598 Start Bot
+2021-07-18 18:28:31,641 Buy transaction: 0x41ddebf0bfdad8a6a89d25c8fe3d602604e19d0795a9a24ab2209c7573ca822f
+2021-07-18 18:28:44,491 Stop Bot

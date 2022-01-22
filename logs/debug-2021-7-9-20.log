@@ -1,0 +1,97 @@
+2021-07-09 20:00:41,676 Read Config Success
+2021-07-09 20:00:43,876 Wallet Connected
+2021-07-09 20:00:47,607 Read Config Success
+2021-07-09 20:00:49,518 Wallet Connected
+2021-07-09 20:01:26,195 Start Bot
+2021-07-09 20:01:26,560 Waiting liquidity to be added
+2021-07-09 20:01:30,288 Wait until transaction completed...
+2021-07-09 20:01:30,289 Buy transaction: 0x7a429f524000b035af79bdace68ef44e1b2fb0f653e529927cfa50e4f55c77c3
+2021-07-09 20:01:36,691 Buy transaction confirmed
+2021-07-09 20:01:37,389 Checking the condition, current price:7.18e-06, buy price:7.18e-06
+2021-07-09 20:01:37,890 Checking the condition, current price:7.18e-06, buy price:7.18e-06
+2021-07-09 20:01:38,390 Checking the condition, current price:7.18e-06, buy price:7.18e-06
+2021-07-09 20:01:38,893 Checking the condition, current price:7.96e-06, buy price:7.18e-06
+2021-07-09 20:01:39,398 Checking the condition, current price:7.96e-06, buy price:7.18e-06
+2021-07-09 20:01:39,899 Checking the condition, current price:7.96e-06, buy price:7.18e-06
+2021-07-09 20:01:40,403 Checking the condition, current price:7.96e-06, buy price:7.18e-06
+2021-07-09 20:01:40,447 Start Sell
+2021-07-09 20:01:40,450 Wait until transaction completed...
+2021-07-09 20:01:42,223 Sell transaction: 0x4caeb4063618f573ad1e23b127b7ebd706903a80d2c77e1c44783dd52141b1de
+2021-07-09 20:01:52,475 Sell transaction confirmed
+2021-07-09 20:08:47,618 Read Config Success
+2021-07-09 20:08:49,773 Wallet Connected
+2021-07-09 20:10:40,238 Read Config Success
+2021-07-09 20:10:42,752 Wallet Connected
+2021-07-09 20:11:59,695 Start Bot
+2021-07-09 20:12:00,058 Waiting liquidity to be added
+2021-07-09 20:12:13,904 Wait until transaction completed...
+2021-07-09 20:12:13,905 Buy transaction: 0xd463a45a4dadcc612a1b991c9176b7cf2001443b1fe4b18ac26d938d51bd0fb7
+2021-07-09 20:15:22,237 Stop Bot
+2021-07-09 20:15:35,970 Start Bot
+2021-07-09 20:15:42,512 Wait until transaction completed...
+2021-07-09 20:15:42,512 Buy transaction: 0xad00d592acf5c644d473a91172fcd6174cb2d0735666d83f3e25fbcc7091f079
+2021-07-09 20:16:12,981 Stop Bot
+2021-07-09 20:19:07,931 Buy transaction failed
+2021-07-09 20:22:00,041 Read Config Success
+2021-07-09 20:22:02,049 Wallet Connected
+2021-07-09 20:22:25,049 Read Config Success
+2021-07-09 20:22:28,610 Wallet Connected
+2021-07-09 20:22:36,870 Please Input Buy Amount!
+2021-07-09 20:22:45,507 Start Bot
+2021-07-09 20:22:45,938 Waiting liquidity to be added
+2021-07-09 20:22:47,747 Wait until transaction completed...
+2021-07-09 20:22:47,748 Buy transaction: 0xfbb62e193a6449a7752413bfd1142bebe59f43f4eda47e3126d7967595ea519f
+2021-07-09 20:22:54,593 Buy transaction confirmed
+2021-07-09 20:22:55,306 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:22:55,814 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:22:56,317 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:22:56,825 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:22:57,325 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:22:57,825 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:22:58,327 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:22:58,837 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:22:59,351 Checking the condition, current price:3.155e-05, buy price:3.167e-05
+2021-07-09 20:22:59,861 Checking the condition, current price:3.155e-05, buy price:3.167e-05
+2021-07-09 20:23:00,372 Checking the condition, current price:3.155e-05, buy price:3.167e-05
+2021-07-09 20:23:00,880 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:23:01,382 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:23:01,893 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:23:02,397 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:23:02,903 Checking the condition, current price:3.155e-05, buy price:3.167e-05
+2021-07-09 20:23:03,417 Checking the condition, current price:3.155e-05, buy price:3.167e-05
+2021-07-09 20:23:03,920 Checking the condition, current price:3.155e-05, buy price:3.167e-05
+2021-07-09 20:23:04,421 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:23:04,924 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:23:05,432 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:23:05,938 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:23:06,449 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:23:06,959 Checking the condition, current price:3.155e-05, buy price:3.167e-05
+2021-07-09 20:23:07,469 Checking the condition, current price:3.155e-05, buy price:3.167e-05
+2021-07-09 20:23:07,981 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:23:08,490 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:23:09,000 Checking the condition, current price:3.155e-05, buy price:3.167e-05
+2021-07-09 20:23:09,508 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:23:10,015 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:23:10,530 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:23:11,033 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:23:11,533 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:23:12,046 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:23:12,550 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:23:13,063 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:23:13,566 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:23:14,070 Checking the condition, current price:3.155e-05, buy price:3.167e-05
+2021-07-09 20:23:14,575 Checking the condition, current price:3.155e-05, buy price:3.167e-05
+2021-07-09 20:23:15,083 Checking the condition, current price:3.155e-05, buy price:3.167e-05
+2021-07-09 20:23:15,583 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:23:16,089 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:23:16,592 Checking the condition, current price:3.155e-05, buy price:3.167e-05
+2021-07-09 20:23:17,093 Checking the condition, current price:3.155e-05, buy price:3.167e-05
+2021-07-09 20:23:17,598 Checking the condition, current price:3.155e-05, buy price:3.167e-05
+2021-07-09 20:23:18,102 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:23:18,601 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:23:19,102 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:23:19,604 Checking the condition, current price:3.167e-05, buy price:3.167e-05
+2021-07-09 20:23:20,081 Start Sell
+2021-07-09 20:23:20,082 Wait until transaction completed...
+2021-07-09 20:23:21,796 Sell transaction: 0x42008dbf362237d8f4f669bf86fc9b682c3f60561a05f13edab31bc29ef8735c
+2021-07-09 20:23:29,179 Sell transaction confirmed

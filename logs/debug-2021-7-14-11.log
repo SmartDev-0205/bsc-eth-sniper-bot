@@ -1,0 +1,43 @@
+2021-07-14 11:31:12,976 Read Config Success
+2021-07-14 11:31:15,565 Wallet Connected
+2021-07-14 11:31:32,354 You have enough Trini Token, You can use our bot!
+2021-07-14 11:31:37,446 Start Bot
+2021-07-14 11:31:46,551 Waiting Until Buy Confirm
+2021-07-14 11:31:47,796 Buy transaction: 0xe4ff6c01e81eb96dc13078fd0173a4fc280b5d6a7c8db5d45542a2992eba782e
+2021-07-14 11:31:49,832 Buy transaction: 0xb8f0556e14d85037805cdda17af611b744251255a9c594817ac8d2ec671e8088
+2021-07-14 11:31:50,223 Buy transaction: 0x3283ada79966d64f8c51a0a635f3102a51dd6cee18619acbf33c89db0871b169
+2021-07-14 11:31:56,227 Buy transaction confirmed
+2021-07-14 11:31:56,231 Waiting Sell Moment....
+2021-07-14 11:31:57,500 Checking the condition, current price:0.00338487, buy price:0.00338488
+2021-07-14 11:31:59,166 Checking the condition, current price:0.00338487, buy price:0.00338488
+2021-07-14 11:32:19,323 Checking the condition, current price:0.00338491, buy price:0.00338488
+2021-07-14 11:32:21,033 Checking the condition, current price:0.00338506, buy price:0.00338488
+2021-07-14 11:32:22,780 Checking the condition, current price:0.00338506, buy price:0.00338488
+2021-07-14 11:32:24,775 Checking the condition, current price:0.00338505, buy price:0.00338488
+2021-07-14 11:32:25,129 Checking the condition, current price:0.00338505, buy price:0.00338488
+2021-07-14 11:32:25,848 Checking the condition, current price:0.00338504, buy price:0.00338488
+2021-07-14 11:32:26,121 Start Sell
+2021-07-14 11:32:26,125 Wait until transaction completed...
+2021-07-14 11:32:27,979 Checking the condition, current price:0.00338504, buy price:0.00338488
+2021-07-14 11:32:28,259 Sell transaction: 0x45cc71944f3cca925f2258bdb7b517df9d0ed2312f0b6cef9db726419fdc8112
+2021-07-14 11:32:29,947 Sell error: {'code': -32000, 'message': 'replacement transaction underpriced'}
+2021-07-14 11:32:29,948 Retry ...
+2021-07-14 11:32:30,349 Sell transaction: 0xac2edaaa78ad72ae8cc4ecb3a4fdd890a419686d33f66eb8a15e73434f83647e
+2021-07-14 11:33:14,243 Stop Bot
+2021-07-14 11:33:17,194 You have enough Trini Token, You can use our bot!
+2021-07-14 11:33:23,320 Start Bot
+2021-07-14 11:33:23,648 Waiting Sell Moment....
+2021-07-14 11:33:24,304 Checking the condition, current price:0.00338531, buy price:0.00338531
+2021-07-14 11:33:25,715 Checking the condition, current price:0.00338531, buy price:0.00338531
+2021-07-14 11:33:27,093 Checking the condition, current price:0.0033853, buy price:0.0033853
+2021-07-14 11:33:28,550 Checking the condition, current price:0.0033853, buy price:0.0033853
+2021-07-14 11:33:29,449 Checking the condition, current price:0.0033853, buy price:0.0033853
+2021-07-14 11:33:29,464 Start Sell
+2021-07-14 11:33:29,470 Wait until transaction completed...
+2021-07-14 11:33:30,791 Checking the condition, current price:0.00338545, buy price:0.00338545
+2021-07-14 11:33:31,807 Sell transaction: 0xfce745f7debece9d782eeeb3f324fac11a116669e884a6589675a811f7b60a2f
+2021-07-14 11:33:31,821 Sell transaction: 0xf8539994e0da55aa5ca33f5cff79a0db74cde9a17992e810056fa4f253672a74
+2021-07-14 11:33:31,925 Sell transaction: 0xa38809e26e7e25b5977773e43ec0b3212e3f789e28fb95610136322a300afbe5
+2021-07-14 11:33:37,549 Sell transaction confirmed
+2021-07-14 11:33:40,394 Sell transaction confirmed
+2021-07-14 11:33:51,458 Stop Bot

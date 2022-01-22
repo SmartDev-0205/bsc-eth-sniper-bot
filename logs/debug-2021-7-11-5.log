@@ -1,0 +1,120 @@
+2021-07-11 05:00:02,371 Read Config Success
+2021-07-11 05:00:05,353 Wallet Connected
+2021-07-11 05:00:13,942 Start Bot
+2021-07-11 05:00:14,197 Waiting liquidity to be added
+2021-07-11 05:00:36,677 Liquidity Added : 0x51b3c816fc9264e9ac59cdb6ce40577a370b7cc6b21f4d6c6f8c809b30d10f1e
+2021-07-11 05:00:36,683 Start Buy
+2021-07-11 05:00:37,025 Wait until transaction completed...
+2021-07-11 05:00:37,030 Buy transaction: 0xbb8446efee83a76a7e6c68c96ac26eca731747c8bbbd77973380e4ded8f0d8cd
+2021-07-11 05:01:55,631 Read Config Success
+2021-07-11 05:01:57,101 Wallet Connected
+2021-07-11 05:02:22,722 Read Config Success
+2021-07-11 05:02:24,211 Wallet Connected
+2021-07-11 05:02:29,627 Start Bot
+2021-07-11 05:02:30,071 Waiting liquidity to be added
+2021-07-11 05:04:11,708 Stop Bot
+2021-07-11 05:04:20,321 Start Bot
+2021-07-11 05:04:25,630 Buy error: {'code': -32000, 'message': 'replacement transaction underpriced'}
+2021-07-11 05:04:25,631 Retry ...
+2021-07-11 05:04:39,133 Buy error: {'code': -32000, 'message': 'replacement transaction underpriced'}
+2021-07-11 05:04:39,134 Retry ...
+2021-07-11 05:04:51,900 Stop Bot
+2021-07-11 05:05:01,304 Start Bot
+2021-07-11 05:05:03,796 Buy error: {'code': -32000, 'message': 'replacement transaction underpriced'}
+2021-07-11 05:05:03,801 Retry ...
+2021-07-11 05:05:29,860 Stop Bot
+2021-07-11 05:07:12,473 Read Config Success
+2021-07-11 05:07:13,908 Wallet Connected
+2021-07-11 05:07:19,335 Start Bot
+2021-07-11 05:08:03,374 Buy error: {'code': -32000, 'message': 'replacement transaction underpriced'}
+2021-07-11 05:08:03,719 Retry ...
+2021-07-11 05:08:29,402 Read Config Success
+2021-07-11 05:08:30,883 Wallet Connected
+2021-07-11 05:08:37,206 Start Bot
+2021-07-11 05:09:24,020 Stop Bot
+2021-07-11 05:09:49,241 Start Bot
+2021-07-11 05:09:49,496 Waiting liquidity to be added
+2021-07-11 05:09:56,617 Read Config Success
+2021-07-11 05:09:57,851 Wallet Connected
+2021-07-11 05:10:12,425 Start Bot
+2021-07-11 05:10:12,738 Waiting liquidity to be added
+2021-07-11 05:10:46,165 Liquidity Added : 0xadadf428f2bd99d3fdcedad79f96fdae13b40e60aa6d47ed42d8a052d8397d07
+2021-07-11 05:10:46,166 Start Buy
+2021-07-11 05:11:33,029 Buy error: {'code': -32000, 'message': 'replacement transaction underpriced'}
+2021-07-11 05:11:33,248 Retry ...
+2021-07-11 05:11:45,892 Stop Bot
+2021-07-11 05:12:05,073 Read Config Success
+2021-07-11 05:12:06,671 Wallet Connected
+2021-07-11 05:12:14,204 Start Bot
+2021-07-11 05:13:30,468 Buy error: {'code': -32000, 'message': 'replacement transaction underpriced'}
+2021-07-11 05:13:30,640 Retry ...
+2021-07-11 05:13:35,935 Read Config Success
+2021-07-11 05:13:39,922 Wallet Connected
+2021-07-11 05:14:56,274 Read Config Success
+2021-07-11 05:14:57,782 Wallet Connected
+2021-07-11 05:17:28,359 Start Bot
+2021-07-11 05:21:32,632 Read Config Success
+2021-07-11 05:21:34,090 Wallet Connected
+2021-07-11 05:21:52,227 Start Bot
+2021-07-11 05:21:57,623 Buy error: {'code': -32000, 'message': 'replacement transaction underpriced'}
+2021-07-11 05:21:57,625 Retry ...
+2021-07-11 05:23:18,110 Read Config Success
+2021-07-11 05:23:20,534 Wallet Connected
+2021-07-11 05:26:54,827 Read Config Success
+2021-07-11 05:26:56,027 Wallet Connected
+2021-07-11 05:27:02,815 Start Bot
+2021-07-11 05:27:04,234 Buy error: {'code': -32000, 'message': 'replacement transaction underpriced'}
+2021-07-11 05:27:04,235 Retry ...
+2021-07-11 05:27:11,835 Stop Bot
+2021-07-11 05:28:57,483 Read Config Success
+2021-07-11 05:28:59,452 Wallet Connected
+2021-07-11 05:29:45,319 Start Bot
+2021-07-11 05:30:51,718 Buy error: {'code': -32000, 'message': 'replacement transaction underpriced'}
+2021-07-11 05:30:51,718 Retry ...
+2021-07-11 05:30:57,844 Stop Bot
+2021-07-11 05:32:00,552 Read Config Success
+2021-07-11 05:32:02,717 Wallet Connected
+2021-07-11 05:32:16,930 Read Config Success
+2021-07-11 05:32:19,837 Wallet Connected
+2021-07-11 05:32:54,648 Read Config Success
+2021-07-11 05:32:56,348 Wallet Connected
+2021-07-11 05:33:03,942 Start Bot
+2021-07-11 05:33:04,342 Waiting liquidity to be added
+2021-07-11 05:33:08,804 Stop Bot
+2021-07-11 05:33:12,437 Start Bot
+2021-07-11 05:33:12,446 Liquidity Added : 0x0ab4232a1ce0bd365ddea04c8dd7ef3e545a2dbb1188fc9f949e76ef0e7437de
+2021-07-11 05:33:12,452 Start Buy
+2021-07-11 05:33:12,454 Buy error: {'code': -32000, 'message': 'replacement transaction underpriced'}
+2021-07-11 05:33:12,455 Retry ...
+2021-07-11 05:33:17,490 Buy error: {'code': -32000, 'message': 'replacement transaction underpriced'}
+2021-07-11 05:33:17,490 Retry ...
+2021-07-11 05:33:27,860 Buy error: {'code': -32000, 'message': 'replacement transaction underpriced'}
+2021-07-11 05:33:27,860 Retry ...
+2021-07-11 05:33:34,259 Stop Bot
+2021-07-11 05:33:43,104 Start Bot
+2021-07-11 05:33:47,937 Buy error: {'code': -32000, 'message': 'replacement transaction underpriced'}
+2021-07-11 05:33:47,937 Retry ...
+2021-07-11 05:33:49,251 Stop Bot
+2021-07-11 05:33:54,899 Start Bot
+2021-07-11 05:33:57,404 Stop Bot
+2021-07-11 05:34:02,896 Start Bot
+2021-07-11 05:34:06,020 Wait until transaction completed...
+2021-07-11 05:34:06,022 Buy transaction: 0x0faef44a64aa4d5d3adb60bd0b8a2a9ee41d0d1eed0df0a1262a37b325482a2a
+2021-07-11 05:34:11,467 Buy transaction confirmed
+2021-07-11 05:34:11,703 Checking the condition, current price:0.00316221, buy price:0.00316219
+2021-07-11 05:34:12,472 Checking the condition, current price:0.00316221, buy price:0.00316219
+2021-07-11 05:34:13,249 Checking the condition, current price:0.00316221, buy price:0.00316219
+2021-07-11 05:34:14,071 Checking the condition, current price:0.00316221, buy price:0.00316219
+2021-07-11 05:34:14,876 Checking the condition, current price:0.00316221, buy price:0.00316219
+2021-07-11 05:34:15,765 Checking the condition, current price:0.00316221, buy price:0.00316219
+2021-07-11 05:34:16,601 Checking the condition, current price:0.00316221, buy price:0.00316219
+2021-07-11 05:34:17,519 Checking the condition, current price:0.00316221, buy price:0.00316219
+2021-07-11 05:34:17,533 Stop Bot
+2021-07-11 05:34:43,551 Read Config Success
+2021-07-11 05:34:45,235 Wallet Connected
+2021-07-11 05:34:59,740 Start Bot
+2021-07-11 05:34:59,974 Waiting liquidity to be added
+2021-07-11 05:39:21,666 Read Config Success
+2021-07-11 05:39:22,921 Wallet Connected
+2021-07-11 05:41:28,962 Read Config Success
+2021-07-11 05:41:30,194 Wallet Connected

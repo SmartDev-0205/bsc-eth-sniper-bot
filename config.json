@@ -1,0 +1,7 @@
+{
+  "provider_bsc" : "http://65.21.127.168:8545",
+  "provider_wss" : "ws://65.21.127.168:8546",
+  "address": "",
+  "private_key": ""
+}
+

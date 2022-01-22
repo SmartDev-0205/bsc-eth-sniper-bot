@@ -1,0 +1,13 @@
+2021-07-29 08:17:06,563 Read Config Success
+2021-07-29 08:17:07,490 Wallet Connected
+2021-07-29 08:17:08,761 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-29 08:17:15,118 Start Bot
+2021-07-29 08:17:15,123 Token Address : 0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56, Presale Address : 
+2021-07-29 08:17:15,126 Buy Amount : 1000000000000000.0, Sell Amount Percent : 100%, Sell Price : 0%
+2021-07-29 08:17:15,340 Waiting liquidity to be added
+2021-07-29 08:17:17,255 Liquidity Added : 0x3cfea1723ac7279843caf1ed348a2873dc51cffcd6db095be464a449b71ee232
+2021-07-29 08:17:17,513 Buy transaction: 0x16a4b0a248556440df4163b95c243f5237549bad1a046693dbc86f1787d1ec50
+2021-07-29 08:17:19,351 Liquidity Added : 0x715a3e408977b9b776fdc157e542b96f24f7ca2934916a9048f72e5a307dcbe9
+2021-07-29 08:17:19,566 Buy error: {'code': -32000, 'message': 'already known'}
+2021-07-29 08:17:19,566 Retry ...
+2021-07-29 08:17:44,083 Stop Bot

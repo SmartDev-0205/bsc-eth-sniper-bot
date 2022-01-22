@@ -1,0 +1,350 @@
+2021-07-28 18:26:03,078 Read Config Success
+2021-07-28 18:26:04,629 Wallet Connected
+2021-07-28 18:26:06,564 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-28 18:26:20,673 Start Bot
+2021-07-28 18:26:20,678 Token Address : 0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56, Presale Address : 
+2021-07-28 18:26:20,680 Buy Amount : 1000000000000000.0, Sell Amount Percent : 100%, Sell Price : 0%
+2021-07-28 18:26:21,247 Start Price:0.003187525149BNB
+2021-07-28 18:26:21,536 Checking the condition, current price:100.0%
+2021-07-28 18:26:22,897 Checking the condition, current price:100.0%
+2021-07-28 18:26:24,141 Checking the condition, current price:100.00087%
+2021-07-28 18:26:25,507 Checking the condition, current price:100.00062%
+2021-07-28 18:26:26,886 Checking the condition, current price:100.00062%
+2021-07-28 18:26:27,163 Buy transaction: 0x68f2923976a0f71d77eb23137f65fec53eeaab21ffc808b5265b3f38385cbbc3
+2021-07-28 18:27:08,131 Buy transaction confirmed
+2021-07-28 18:27:08,132 Waiting Sell Moment....
+2021-07-28 18:27:08,529 Checking the condition, current price:100.0%
+2021-07-28 18:27:09,375 Checking the condition, current price:100.0%
+2021-07-28 18:27:10,228 Checking the condition, current price:100.0013%
+2021-07-28 18:27:10,958 Checking the condition, current price:100.0013%
+2021-07-28 18:27:11,754 Checking the condition, current price:100.0013%
+2021-07-28 18:27:12,564 Checking the condition, current price:100.0013%
+2021-07-28 18:27:13,358 Checking the condition, current price:100.00244%
+2021-07-28 18:27:14,083 Checking the condition, current price:100.00244%
+2021-07-28 18:27:14,815 Checking the condition, current price:100.00244%
+2021-07-28 18:27:15,541 Checking the condition, current price:100.00244%
+2021-07-28 18:27:16,267 Checking the condition, current price:100.00244%
+2021-07-28 18:27:17,081 Checking the condition, current price:100.00244%
+2021-07-28 18:27:17,918 Checking the condition, current price:100.00244%
+2021-07-28 18:27:18,759 Checking the condition, current price:100.00244%
+2021-07-28 18:27:19,614 Checking the condition, current price:100.00202%
+2021-07-28 18:27:20,439 Checking the condition, current price:100.00243%
+2021-07-28 18:27:21,264 Checking the condition, current price:100.00243%
+2021-07-28 18:27:22,120 Checking the condition, current price:100.00243%
+2021-07-28 18:27:22,981 Checking the condition, current price:100.00243%
+2021-07-28 18:27:23,772 Checking the condition, current price:100.00243%
+2021-07-28 18:27:24,654 Checking the condition, current price:100.00243%
+2021-07-28 18:27:25,524 Checking the condition, current price:100.00243%
+2021-07-28 18:27:26,394 Checking the condition, current price:100.00271%
+2021-07-28 18:27:27,206 Checking the condition, current price:100.00271%
+2021-07-28 18:27:28,083 Checking the condition, current price:100.00271%
+2021-07-28 18:27:28,866 Checking the condition, current price:100.00134%
+2021-07-28 18:27:29,711 Checking the condition, current price:100.00134%
+2021-07-28 18:27:30,528 Checking the condition, current price:100.00134%
+2021-07-28 18:27:31,313 Checking the condition, current price:100.00134%
+2021-07-28 18:27:32,089 Checking the condition, current price:100.00134%
+2021-07-28 18:27:32,850 Checking the condition, current price:100.00368%
+2021-07-28 18:27:33,615 Checking the condition, current price:100.00368%
+2021-07-28 18:27:34,352 Checking the condition, current price:100.00368%
+2021-07-28 18:27:35,136 Checking the condition, current price:100.00435%
+2021-07-28 18:27:35,904 Checking the condition, current price:100.00435%
+2021-07-28 18:27:36,726 Checking the condition, current price:100.00435%
+2021-07-28 18:27:37,613 Checking the condition, current price:100.00435%
+2021-07-28 18:27:38,443 Checking the condition, current price:99.99899%
+2021-07-28 18:27:39,259 Checking the condition, current price:99.99899%
+2021-07-28 18:27:40,133 Checking the condition, current price:99.99899%
+2021-07-28 18:27:40,897 Checking the condition, current price:99.99899%
+2021-07-28 18:27:41,701 Checking the condition, current price:99.99899%
+2021-07-28 18:27:42,441 Checking the condition, current price:99.99899%
+2021-07-28 18:27:43,190 Checking the condition, current price:99.99899%
+2021-07-28 18:27:44,022 Checking the condition, current price:99.99886%
+2021-07-28 18:27:44,850 Checking the condition, current price:99.99886%
+2021-07-28 18:27:45,654 Checking the condition, current price:100.00686%
+2021-07-28 18:27:46,470 Checking the condition, current price:100.00686%
+2021-07-28 18:27:47,351 Checking the condition, current price:100.00686%
+2021-07-28 18:27:48,222 Checking the condition, current price:100.00686%
+2021-07-28 18:27:49,102 Checking the condition, current price:100.00686%
+2021-07-28 18:27:49,899 Checking the condition, current price:100.00625%
+2021-07-28 18:27:50,643 Checking the condition, current price:99.99764%
+2021-07-28 18:27:51,394 Checking the condition, current price:99.99764%
+2021-07-28 18:27:52,235 Checking the condition, current price:99.99764%
+2021-07-28 18:27:53,063 Checking the condition, current price:99.99764%
+2021-07-28 18:27:53,913 Checking the condition, current price:99.9888%
+2021-07-28 18:27:54,802 Checking the condition, current price:99.9888%
+2021-07-28 18:27:55,562 Checking the condition, current price:99.9888%
+2021-07-28 18:27:56,454 Checking the condition, current price:99.9888%
+2021-07-28 18:27:57,272 Checking the condition, current price:99.9888%
+2021-07-28 18:27:58,130 Checking the condition, current price:99.9888%
+2021-07-28 18:27:58,990 Checking the condition, current price:99.9888%
+2021-07-28 18:27:59,847 Checking the condition, current price:99.9888%
+2021-07-28 18:28:00,689 Checking the condition, current price:99.9888%
+2021-07-28 18:28:01,527 Checking the condition, current price:99.9888%
+2021-07-28 18:28:02,330 Checking the condition, current price:99.9888%
+2021-07-28 18:28:03,183 Checking the condition, current price:99.98867%
+2021-07-28 18:28:03,920 Checking the condition, current price:99.98867%
+2021-07-28 18:28:04,672 Checking the condition, current price:99.98867%
+2021-07-28 18:28:05,514 Checking the condition, current price:99.98867%
+2021-07-28 18:28:06,362 Checking the condition, current price:99.99041%
+2021-07-28 18:28:07,174 Checking the condition, current price:99.99041%
+2021-07-28 18:28:08,056 Checking the condition, current price:99.99041%
+2021-07-28 18:28:08,899 Checking the condition, current price:99.99041%
+2021-07-28 18:28:09,785 Checking the condition, current price:99.99041%
+2021-07-28 18:28:10,604 Checking the condition, current price:99.99041%
+2021-07-28 18:28:11,501 Checking the condition, current price:99.99041%
+2021-07-28 18:28:12,365 Checking the condition, current price:99.99041%
+2021-07-28 18:28:13,240 Checking the condition, current price:99.99117%
+2021-07-28 18:28:14,098 Checking the condition, current price:99.99117%
+2021-07-28 18:28:14,847 Checking the condition, current price:99.99117%
+2021-07-28 18:28:16,327 Checking the condition, current price:99.99117%
+2021-07-28 18:28:17,199 Checking the condition, current price:99.99117%
+2021-07-28 18:28:18,056 Checking the condition, current price:99.99117%
+2021-07-28 18:28:18,949 Checking the condition, current price:99.99124%
+2021-07-28 18:28:19,692 Checking the condition, current price:99.99124%
+2021-07-28 18:28:20,601 Checking the condition, current price:99.98974%
+2021-07-28 18:28:21,471 Checking the condition, current price:99.98978%
+2021-07-28 18:28:22,327 Checking the condition, current price:99.98978%
+2021-07-28 18:28:23,759 Checking the condition, current price:99.98978%
+2021-07-28 18:28:24,639 Checking the condition, current price:99.98978%
+2021-07-28 18:28:25,484 Checking the condition, current price:99.98978%
+2021-07-28 18:28:26,362 Checking the condition, current price:99.98978%
+2021-07-28 18:28:27,190 Checking the condition, current price:99.98978%
+2021-07-28 18:28:28,068 Checking the condition, current price:99.98978%
+2021-07-28 18:28:28,940 Checking the condition, current price:99.98978%
+2021-07-28 18:28:29,769 Checking the condition, current price:99.98972%
+2021-07-28 18:28:30,615 Checking the condition, current price:99.98972%
+2021-07-28 18:28:31,450 Checking the condition, current price:99.98972%
+2021-07-28 18:28:32,282 Checking the condition, current price:99.98972%
+2021-07-28 18:28:33,146 Checking the condition, current price:99.98972%
+2021-07-28 18:28:34,034 Checking the condition, current price:99.98977%
+2021-07-28 18:28:34,916 Checking the condition, current price:99.98977%
+2021-07-28 18:28:35,771 Checking the condition, current price:99.98977%
+2021-07-28 18:28:36,654 Checking the condition, current price:99.98977%
+2021-07-28 18:28:37,547 Checking the condition, current price:99.98977%
+2021-07-28 18:28:38,299 Checking the condition, current price:99.98977%
+2021-07-28 18:28:39,030 Checking the condition, current price:99.99056%
+2021-07-28 18:28:39,832 Checking the condition, current price:99.99056%
+2021-07-28 18:28:40,625 Checking the condition, current price:99.99056%
+2021-07-28 18:28:41,529 Checking the condition, current price:99.99056%
+2021-07-28 18:28:42,257 Checking the condition, current price:99.99052%
+2021-07-28 18:28:42,984 Checking the condition, current price:99.99052%
+2021-07-28 18:28:43,730 Checking the condition, current price:99.99052%
+2021-07-28 18:28:44,468 Checking the condition, current price:99.99052%
+2021-07-28 18:28:45,238 Checking the condition, current price:99.98922%
+2021-07-28 18:28:46,061 Checking the condition, current price:99.98922%
+2021-07-28 18:28:46,800 Checking the condition, current price:99.98922%
+2021-07-28 18:28:47,578 Checking the condition, current price:99.98922%
+2021-07-28 18:28:48,311 Checking the condition, current price:99.98927%
+2021-07-28 18:28:49,098 Checking the condition, current price:99.98927%
+2021-07-28 18:28:49,918 Checking the condition, current price:99.98927%
+2021-07-28 18:28:50,787 Checking the condition, current price:99.98927%
+2021-07-28 18:28:51,612 Checking the condition, current price:99.98927%
+2021-07-28 18:28:52,483 Checking the condition, current price:99.98954%
+2021-07-28 18:28:53,305 Checking the condition, current price:99.98954%
+2021-07-28 18:28:54,169 Checking the condition, current price:99.98954%
+2021-07-28 18:28:55,025 Checking the condition, current price:99.98954%
+2021-07-28 18:28:55,872 Checking the condition, current price:99.98969%
+2021-07-28 18:28:56,752 Checking the condition, current price:99.98969%
+2021-07-28 18:28:57,659 Checking the condition, current price:99.98971%
+2021-07-28 18:28:58,479 Checking the condition, current price:99.98971%
+2021-07-28 18:28:59,329 Checking the condition, current price:99.98971%
+2021-07-28 18:29:00,180 Checking the condition, current price:99.98971%
+2021-07-28 18:29:01,058 Checking the condition, current price:99.98936%
+2021-07-28 18:29:01,914 Checking the condition, current price:99.98936%
+2021-07-28 18:29:02,759 Checking the condition, current price:99.98936%
+2021-07-28 18:29:03,536 Checking the condition, current price:99.98936%
+2021-07-28 18:29:04,349 Checking the condition, current price:99.98938%
+2021-07-28 18:29:05,227 Checking the condition, current price:99.98938%
+2021-07-28 18:29:06,022 Checking the condition, current price:99.98938%
+2021-07-28 18:29:06,874 Checking the condition, current price:99.98938%
+2021-07-28 18:29:07,698 Checking the condition, current price:99.98938%
+2021-07-28 18:29:08,461 Checking the condition, current price:99.98938%
+2021-07-28 18:29:09,331 Checking the condition, current price:99.98938%
+2021-07-28 18:29:10,199 Checking the condition, current price:99.98408%
+2021-07-28 18:29:11,079 Checking the condition, current price:99.98408%
+2021-07-28 18:29:11,925 Checking the condition, current price:99.98408%
+2021-07-28 18:29:12,795 Checking the condition, current price:99.98408%
+2021-07-28 18:29:13,669 Checking the condition, current price:99.98366%
+2021-07-28 18:29:14,453 Checking the condition, current price:99.98366%
+2021-07-28 18:29:15,335 Checking the condition, current price:99.98366%
+2021-07-28 18:29:16,185 Checking the condition, current price:99.98366%
+2021-07-28 18:29:17,659 Checking the condition, current price:99.98365%
+2021-07-28 18:29:18,409 Checking the condition, current price:99.98365%
+2021-07-28 18:29:19,218 Checking the condition, current price:99.98365%
+2021-07-28 18:29:20,047 Checking the condition, current price:99.9836%
+2021-07-28 18:29:20,846 Checking the condition, current price:99.9836%
+2021-07-28 18:29:21,652 Checking the condition, current price:99.9836%
+2021-07-28 18:29:22,421 Checking the condition, current price:99.98372%
+2021-07-28 18:29:23,174 Checking the condition, current price:99.98372%
+2021-07-28 18:29:23,988 Checking the condition, current price:99.98372%
+2021-07-28 18:29:24,866 Checking the condition, current price:99.98372%
+2021-07-28 18:29:25,700 Checking the condition, current price:99.98372%
+2021-07-28 18:29:27,010 Checking the condition, current price:99.98501%
+2021-07-28 18:29:27,772 Checking the condition, current price:99.98501%
+2021-07-28 18:29:28,537 Checking the condition, current price:99.98501%
+2021-07-28 18:29:29,310 Checking the condition, current price:99.98501%
+2021-07-28 18:29:30,109 Checking the condition, current price:99.97593%
+2021-07-28 18:29:30,905 Checking the condition, current price:99.97593%
+2021-07-28 18:29:31,744 Checking the condition, current price:99.97674%
+2021-07-28 18:29:32,480 Checking the condition, current price:99.97674%
+2021-07-28 18:29:33,194 Checking the condition, current price:99.97674%
+2021-07-28 18:29:34,073 Checking the condition, current price:99.97674%
+2021-07-28 18:29:35,506 Checking the condition, current price:99.97674%
+2021-07-28 18:29:36,372 Checking the condition, current price:99.97454%
+2021-07-28 18:29:37,241 Checking the condition, current price:99.97454%
+2021-07-28 18:29:38,008 Checking the condition, current price:99.97454%
+2021-07-28 18:29:38,786 Checking the condition, current price:99.97454%
+2021-07-28 18:29:39,585 Checking the condition, current price:99.97454%
+2021-07-28 18:29:40,387 Checking the condition, current price:99.97454%
+2021-07-28 18:29:41,199 Checking the condition, current price:99.97454%
+2021-07-28 18:29:41,959 Checking the condition, current price:99.97454%
+2021-07-28 18:29:42,799 Checking the condition, current price:99.97454%
+2021-07-28 18:29:43,623 Checking the condition, current price:99.96119%
+2021-07-28 18:29:44,464 Checking the condition, current price:99.96119%
+2021-07-28 18:29:45,298 Checking the condition, current price:99.96119%
+2021-07-28 18:29:46,165 Checking the condition, current price:99.96119%
+2021-07-28 18:29:47,033 Checking the condition, current price:99.96119%
+2021-07-28 18:29:47,881 Checking the condition, current price:99.96119%
+2021-07-28 18:29:48,746 Checking the condition, current price:99.96119%
+2021-07-28 18:29:49,595 Checking the condition, current price:99.96119%
+2021-07-28 18:29:50,468 Checking the condition, current price:99.96119%
+2021-07-28 18:29:51,241 Checking the condition, current price:99.96119%
+2021-07-28 18:29:51,993 Checking the condition, current price:99.96119%
+2021-07-28 18:29:52,792 Checking the condition, current price:99.96119%
+2021-07-28 18:29:53,618 Checking the condition, current price:99.96119%
+2021-07-28 18:29:54,463 Checking the condition, current price:99.96114%
+2021-07-28 18:29:55,334 Checking the condition, current price:99.96114%
+2021-07-28 18:29:56,183 Checking the condition, current price:99.96114%
+2021-07-28 18:29:57,016 Checking the condition, current price:99.96114%
+2021-07-28 18:29:57,830 Checking the condition, current price:99.96114%
+2021-07-28 18:29:58,712 Checking the condition, current price:99.96114%
+2021-07-28 18:29:59,578 Checking the condition, current price:99.96114%
+2021-07-28 18:30:00,458 Checking the condition, current price:99.96114%
+2021-07-28 18:30:01,472 Checking the condition, current price:99.96114%
+2021-07-28 18:30:02,283 Checking the condition, current price:99.96114%
+2021-07-28 18:30:03,066 Checking the condition, current price:99.96114%
+2021-07-28 18:30:03,908 Checking the condition, current price:99.96114%
+2021-07-28 18:30:04,753 Checking the condition, current price:99.96111%
+2021-07-28 18:30:05,647 Checking the condition, current price:99.96111%
+2021-07-28 18:30:06,558 Checking the condition, current price:99.96111%
+2021-07-28 18:30:07,425 Checking the condition, current price:99.96024%
+2021-07-28 18:30:08,281 Checking the condition, current price:99.96024%
+2021-07-28 18:30:09,161 Checking the condition, current price:99.96024%
+2021-07-28 18:30:10,016 Checking the condition, current price:99.96024%
+2021-07-28 18:30:10,903 Checking the condition, current price:99.96028%
+2021-07-28 18:30:11,765 Checking the condition, current price:99.96028%
+2021-07-28 18:30:12,644 Checking the condition, current price:99.96028%
+2021-07-28 18:30:13,431 Checking the condition, current price:99.96028%
+2021-07-28 18:30:14,306 Checking the condition, current price:99.96358%
+2021-07-28 18:30:15,130 Checking the condition, current price:99.96358%
+2021-07-28 18:30:16,000 Checking the condition, current price:99.96358%
+2021-07-28 18:30:16,861 Checking the condition, current price:99.96577%
+2021-07-28 18:30:17,707 Checking the condition, current price:99.96577%
+2021-07-28 18:30:18,541 Checking the condition, current price:99.96577%
+2021-07-28 18:30:19,415 Checking the condition, current price:99.96577%
+2021-07-28 18:30:20,298 Checking the condition, current price:99.96577%
+2021-07-28 18:30:21,138 Checking the condition, current price:99.96577%
+2021-07-28 18:30:22,027 Checking the condition, current price:99.96556%
+2021-07-28 18:30:22,901 Checking the condition, current price:99.96931%
+2021-07-28 18:30:23,855 Checking the condition, current price:99.96931%
+2021-07-28 18:30:24,612 Checking the condition, current price:99.96556%
+2021-07-28 18:30:25,422 Checking the condition, current price:99.96556%
+2021-07-28 18:30:26,201 Checking the condition, current price:99.96556%
+2021-07-28 18:30:27,025 Checking the condition, current price:99.96556%
+2021-07-28 18:30:27,756 Checking the condition, current price:99.96556%
+2021-07-28 18:30:28,646 Checking the condition, current price:99.96503%
+2021-07-28 18:30:29,473 Checking the condition, current price:99.96503%
+2021-07-28 18:30:30,196 Checking the condition, current price:99.96503%
+2021-07-28 18:30:30,953 Checking the condition, current price:99.96503%
+2021-07-28 18:30:31,780 Checking the condition, current price:99.96503%
+2021-07-28 18:30:32,672 Checking the condition, current price:99.96503%
+2021-07-28 18:30:33,511 Checking the condition, current price:99.96503%
+2021-07-28 18:30:34,365 Checking the condition, current price:99.96503%
+2021-07-28 18:30:35,226 Checking the condition, current price:99.96503%
+2021-07-28 18:30:36,028 Checking the condition, current price:99.96503%
+2021-07-28 18:30:37,521 Checking the condition, current price:99.96503%
+2021-07-28 18:30:38,276 Checking the condition, current price:99.96918%
+2021-07-28 18:30:39,130 Checking the condition, current price:99.96918%
+2021-07-28 18:30:39,992 Checking the condition, current price:99.96918%
+2021-07-28 18:30:40,844 Checking the condition, current price:99.96918%
+2021-07-28 18:30:41,713 Checking the condition, current price:99.96918%
+2021-07-28 18:30:42,593 Checking the condition, current price:99.96917%
+2021-07-28 18:30:43,474 Checking the condition, current price:99.96891%
+2021-07-28 18:30:44,354 Checking the condition, current price:99.9691%
+2021-07-28 18:30:45,217 Checking the condition, current price:99.9691%
+2021-07-28 18:30:46,095 Checking the condition, current price:99.9691%
+2021-07-28 18:30:46,970 Checking the condition, current price:99.9693%
+2021-07-28 18:30:47,840 Checking the condition, current price:99.9693%
+2021-07-28 18:30:48,599 Checking the condition, current price:99.9693%
+2021-07-28 18:30:49,475 Checking the condition, current price:99.9693%
+2021-07-28 18:30:50,289 Checking the condition, current price:99.96911%
+2021-07-28 18:30:50,926 Start Sell
+2021-07-28 18:30:50,927 Wait until transaction completed...
+2021-07-28 18:30:51,126 Checking the condition, current price:99.96911%
+2021-07-28 18:30:53,027 Sell transaction: 0xfa9dc0f3f1e039b73e507096e7d41196906978a3193fb1d3783c61c0792e0d19
+2021-07-28 18:31:08,642 Sell transaction confirmed
+2021-07-28 18:41:53,196 Read Config Success
+2021-07-28 18:41:54,124 Wallet Connected
+2021-07-28 18:41:55,462 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-28 18:41:58,816 Please Input Buy Amount!
+2021-07-28 18:42:03,988 Start Bot
+2021-07-28 18:42:03,996 Token Address : 0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56, Presale Address : 
+2021-07-28 18:42:03,999 Buy Amount : 1000000000000000.0, Sell Amount Percent : 100%, Sell Price : 0%
+2021-07-28 18:42:04,444 Start Price:0.003176583017BNB
+2021-07-28 18:42:04,661 Checking the condition, current price:100.0%
+2021-07-28 18:42:05,732 Buy transaction: 0x113780371d1848e832e48638c9a86eb970f46bdda782bc50e834520e0b599af1
+2021-07-28 18:42:30,551 Stop Bot
+2021-07-28 18:42:40,463 Read Config Success
+2021-07-28 18:42:41,872 Wallet Connected
+2021-07-28 18:42:44,462 Start Bot
+2021-07-28 18:42:44,471 Token Address : 0x91a4f2BB75BD2A09e851f8f6963fD2cDe206Bc6a, Presale Address : 
+2021-07-28 18:42:44,473 Buy Amount : 1000000000000000.0, Sell Amount Percent : 100%, Sell Price : 0%
+2021-07-28 18:42:45,015 Start Price:4.4924e-08BNB
+2021-07-28 18:42:45,301 Checking the condition, current price:100.0%
+2021-07-28 18:42:46,558 Checking the condition, current price:100.0%
+2021-07-28 18:42:47,929 Checking the condition, current price:100.0%
+2021-07-28 18:42:49,256 Stop Bot
+2021-07-28 18:42:49,625 Checking the condition, current price:100.0%
+2021-07-28 18:42:56,087 Start Bot
+2021-07-28 18:42:56,094 Token Address : 0x91a4f2BB75BD2A09e851f8f6963fD2cDe206Bc6a, Presale Address : 
+2021-07-28 18:42:56,095 Buy Amount : 1000000000000000.0, Sell Amount Percent : 100%, Sell Price : 0%
+2021-07-28 18:42:57,314 Start Price:4.4971e-08BNB
+2021-07-28 18:42:57,552 Checking the condition, current price:100.0%
+2021-07-28 18:42:57,636 Buy transaction: 0xb177a35065692c7d16f18151ef05335f47c4655e3fe8b20b7acec39af58b9ceb
+2021-07-28 18:43:39,600 Stop Bot
+2021-07-28 18:43:44,123 Start Bot
+2021-07-28 18:43:44,129 Token Address : 0x91a4f2BB75BD2A09e851f8f6963fD2cDe206Bc6a, Presale Address : 
+2021-07-28 18:43:44,132 Buy Amount : 1000000000000000.0, Sell Amount Percent : 100%, Sell Price : 0%
+2021-07-28 18:43:44,830 Start Price:4.4971e-08BNB
+2021-07-28 18:43:45,163 Checking the condition, current price:100.0%
+2021-07-28 18:43:46,540 Checking the condition, current price:100.0%
+2021-07-28 18:43:47,679 Buy error: {'code': -32000, 'message': 'replacement transaction underpriced'}
+2021-07-28 18:43:47,681 Retry ...
+2021-07-28 18:43:50,959 Buy error: {'code': -32000, 'message': 'replacement transaction underpriced'}
+2021-07-28 18:43:50,960 Retry ...
+2021-07-28 18:43:52,041 Buy error: {'code': -32000, 'message': 'replacement transaction underpriced'}
+2021-07-28 18:43:52,043 Retry ...
+2021-07-28 18:43:52,750 Buy error: {'code': -32000, 'message': 'replacement transaction underpriced'}
+2021-07-28 18:43:52,752 Retry ...
+2021-07-28 18:43:53,115 Buy error: {'code': -32000, 'message': 'replacement transaction underpriced'}
+2021-07-28 18:43:53,115 Retry ...
+2021-07-28 18:43:53,482 Buy error: {'code': -32000, 'message': 'replacement transaction underpriced'}
+2021-07-28 18:43:53,482 Retry ...
+2021-07-28 18:43:54,022 Buy error: {'code': -32000, 'message': 'replacement transaction underpriced'}
+2021-07-28 18:43:54,023 Retry ...
+2021-07-28 18:43:54,308 Buy error: {'code': -32000, 'message': 'replacement transaction underpriced'}
+2021-07-28 18:43:54,309 Retry ...
+2021-07-28 18:43:54,631 Buy error: {'code': -32000, 'message': 'replacement transaction underpriced'}
+2021-07-28 18:43:54,632 Retry ...
+2021-07-28 18:43:54,960 Buy error: {'code': -32000, 'message': 'replacement transaction underpriced'}
+2021-07-28 18:43:54,960 Retry ...
+2021-07-28 18:43:56,096 Stop Bot
+2021-07-28 18:43:59,634 Start Bot
+2021-07-28 18:43:59,641 Token Address : 0x91a4f2BB75BD2A09e851f8f6963fD2cDe206Bc6a, Presale Address : 
+2021-07-28 18:43:59,644 Buy Amount : 1000000000000000.0, Sell Amount Percent : 100%, Sell Price : 0%
+2021-07-28 18:44:00,278 Start Price:4.4971e-08BNB
+2021-07-28 18:44:00,577 Checking the condition, current price:100.0%
+2021-07-28 18:44:01,547 Buy error: {'code': -32000, 'message': 'replacement transaction underpriced'}
+2021-07-28 18:44:01,547 Retry ...
+2021-07-28 18:44:01,868 Checking the condition, current price:100.0%
+2021-07-28 18:44:02,962 Stop Bot
+2021-07-28 18:44:03,610 Checking the condition, current price:100.0%

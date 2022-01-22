@@ -1,0 +1,14 @@
+2021-07-10 18:12:11,289 Read Config Success
+2021-07-10 18:12:13,024 Wallet Connected
+2021-07-10 18:12:15,904 Token Address Wrong: Unknown format , attempted to normalize to 0x
+2021-07-10 18:12:37,491 Read Config Success
+2021-07-10 18:12:39,235 Wallet Connected
+2021-07-10 18:12:43,381 Please Input Buy Amount!
+2021-07-10 18:12:52,663 Start Bot
+2021-07-10 18:12:53,010 Waiting liquidity to be added
+2021-07-10 18:18:08,791 Liquidity Added : 0x7391a494569e60971ff13b54314951357f2467a6e0ce0230ce2a83291444fb7f
+2021-07-10 18:18:08,793 Start Buy
+2021-07-10 18:18:09,241 Wait until transaction completed...
+2021-07-10 18:18:09,242 Buy transaction: 0x661d88ee8950ebb5eba8f7fe2f6df858a1777aa09d1450f99d71d3a62bf61b36
+2021-07-10 18:25:06,346 Buy transaction failed
+2021-07-10 19:34:02,619 Stop Bot

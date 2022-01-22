@@ -1,0 +1,56 @@
+2021-07-12 12:19:31,145 Read Config Success
+2021-07-12 12:19:34,234 Wallet Connected
+2021-07-12 12:20:30,120 Start Bot
+2021-07-12 12:20:30,429 Waiting liquidity to be added
+2021-07-12 12:20:35,132 Stop Bot
+2021-07-12 12:20:39,739 Start Bot
+2021-07-12 12:20:42,115 Waiting Until Buy Confirm
+2021-07-12 12:20:42,407 Buy transaction: 0x9b04013c123f696d3ec19f289ef411872f59bc785959f3606e16736d07bf1953
+2021-07-12 12:20:42,498 Buy transaction: 0xfa2150f4f9bd4c80973b342870e85985a90728d40f280dcc7e9f3199eb61284f
+2021-07-12 12:20:42,965 Buy transaction: 0x3efa1dd0b6d40c20380fa09404e5247dbb3a924277b7ff71a5e12c2d7d43bfe6
+2021-07-12 12:20:50,024 Buy transaction confirmed
+2021-07-12 12:20:50,491 Checking the condition, current price:0.00300598, buy price:0.00300598
+2021-07-12 12:20:51,344 Checking the condition, current price:0.00300598, buy price:0.00300598
+2021-07-12 12:20:52,146 Checking the condition, current price:0.00300598, buy price:0.00300598
+2021-07-12 12:20:52,151 Start Sell
+2021-07-12 12:22:34,483 Read Config Success
+2021-07-12 12:22:37,882 Wallet Connected
+2021-07-12 12:22:52,031 Start Bot
+2021-07-12 12:22:53,780 Waiting Until Buy Confirm
+2021-07-12 12:22:54,186 Buy transaction: 0x6b59900cc0d176a294e269b4cffd460614bf92c222545a4df2739cedd7950e06
+2021-07-12 12:22:54,717 Buy transaction: 0x8f5dacf4b4944367ce093fe6e942f5d98df1df2721a627d47a91dbcaec9dd315
+2021-07-12 12:22:54,734 Buy transaction: 0xf7a10ab1d9294b344034422255758254d7d7d9ba49e8499bcb8eae2272e8c6d3
+2021-07-12 12:23:03,350 Buy transaction confirmed
+2021-07-12 12:23:03,994 Checking the condition, current price:0.00301144, buy price:0.00301144
+2021-07-12 12:23:04,863 Checking the condition, current price:0.00301144, buy price:0.00301144
+2021-07-12 12:23:05,738 Checking the condition, current price:0.00301144, buy price:0.00301144
+2021-07-12 12:23:05,740 Start Sell
+2021-07-12 12:23:05,748 Wait until transaction completed...
+2021-07-12 12:23:05,751 Wait until transaction completed...
+2021-07-12 12:23:05,755 Wait until transaction completed...
+2021-07-12 12:23:07,062 Sell transaction: 0x1d724d4cea2edcd0c29898f4a7fd6115189aecd9ace816c2944d18758f7f6f0b
+2021-07-12 12:23:07,697 Sell transaction: 0x14f2c2b3ae798769a9e84f063970b646ed171b78162b8912b92192b3121f48a2
+2021-07-12 12:23:07,906 Sell transaction: 0x524a7b42b5b027b99e77c490a0ee907431056c92b9ad4a01cad6ea0736aa097e
+2021-07-12 12:23:15,587 Sell transaction confirmed
+2021-07-12 12:24:03,957 Stop Bot
+2021-07-12 12:31:35,311 Read Config Success
+2021-07-12 12:31:37,273 Wallet Connected
+2021-07-12 12:33:20,754 Read Config Success
+2021-07-12 12:33:23,840 Wallet Connected
+2021-07-12 12:39:04,829 Read Config Success
+2021-07-12 12:39:08,015 Wallet Connected
+2021-07-12 12:39:28,208 Start Bot
+2021-07-12 12:39:36,814 Stop Bot
+2021-07-12 12:51:23,095 Read Config Success
+2021-07-12 12:51:26,269 Wallet Connected
+2021-07-12 12:51:37,714 Please Input Buy Amount!
+2021-07-12 12:51:46,327 Start Bot
+2021-07-12 12:52:35,414 Stop Bot
+2021-07-12 12:52:48,971 Read Config Success
+2021-07-12 12:52:51,170 Wallet Connected
+2021-07-12 12:53:38,354 Read Config Success
+2021-07-12 12:53:40,168 Wallet Connected
+2021-07-12 12:56:26,229 Please Input Buy Amount!
+2021-07-12 12:56:31,299 Start Bot
+2021-07-12 12:56:31,573 Waiting liquidity to be added
+2021-07-12 12:56:32,445 Stop Bot

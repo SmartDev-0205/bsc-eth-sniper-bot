@@ -1,0 +1,42 @@
+2021-07-16 10:53:09,268 Read Config Success
+2021-07-16 10:53:12,356 Wallet Connected
+2021-07-16 10:53:37,480 Read Config Success
+2021-07-16 10:53:39,074 Wallet Connected
+2021-07-16 10:53:43,634 Please Input Buy Amount!
+2021-07-16 10:53:49,059 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-16 10:53:50,421 Start Bot
+2021-07-16 10:54:21,723 Waiting Until Buy Confirm
+2021-07-16 10:54:22,004 Buy transaction: 0xcec31d20b233522cb7060df6785c5d9c8846da076e67600736c4f1d69041bc9d
+2021-07-16 10:54:29,858 Buy transaction confirmed
+2021-07-16 10:54:29,866 Waiting Sell Moment....
+2021-07-16 10:54:30,264 Checking the condition, current price:100.0%
+2021-07-16 10:54:31,456 Checking the condition, current price:99.99979%
+2021-07-16 10:54:31,696 Checking the condition, current price:99.99979%
+2021-07-16 10:54:32,401 Checking the condition, current price:99.99979%
+2021-07-16 10:54:32,403 Start Sell
+2021-07-16 10:54:32,404 Wait until transaction completed...
+2021-07-16 10:54:34,164 Sell transaction: 0xdb6669ff806a9f820bf663b061794a782361294f0de7da70041f7c37d203660f
+2021-07-16 10:54:40,504 Sell transaction confirmed
+2021-07-16 10:54:44,640 Stop Bot
+2021-07-16 10:54:48,759 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-16 10:54:50,175 Start Bot
+2021-07-16 10:54:55,211 Waiting Until Buy Confirm
+2021-07-16 10:54:55,587 Buy transaction: 0x4d10c8e0a3c066047bb9c21d1e5fd503217786567dd0e05a8e2a161f2b7b7800
+2021-07-16 10:55:01,742 Buy transaction confirmed
+2021-07-16 10:55:01,744 Waiting Sell Moment....
+2021-07-16 10:55:02,128 Checking the condition, current price:100.0%
+2021-07-16 10:55:03,256 Checking the condition, current price:100.0%
+2021-07-16 10:55:04,702 Checking the condition, current price:100.0%
+2021-07-16 10:55:04,901 Checking the condition, current price:100.00062%
+2021-07-16 10:55:06,415 Checking the condition, current price:100.00062%
+2021-07-16 10:55:06,605 Checking the condition, current price:100.00062%
+2021-07-16 10:55:06,768 Start Sell
+2021-07-16 10:55:06,772 Wait until transaction completed...
+2021-07-16 10:55:07,252 Checking the condition, current price:99.99858%
+2021-07-16 10:55:08,078 Sell transaction: 0x90f45404f291c6e6e54419ec618f5c77c8446099000427e60a37a6e1c09c89ce
+2021-07-16 10:55:12,319 Stop Bot
+2021-07-16 10:55:13,623 Sell transaction confirmed
+2021-07-16 10:55:17,590 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-16 10:55:18,916 Start Bot
+2021-07-16 10:55:19,114 Waiting liquidity to be added
+2021-07-16 10:56:02,367 Stop Bot

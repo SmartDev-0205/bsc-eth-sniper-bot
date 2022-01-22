@@ -1,0 +1,35 @@
+2021-07-08 21:22:05,990 Read Config Success
+2021-07-08 21:22:09,670 Wallet Connected
+2021-07-08 21:22:17,914 Start Bot
+2021-07-08 21:22:30,380 Wait until transaction completed...
+2021-07-08 21:22:30,380 Buy transaction: 0x746442e072bb39cce7dd8040eb47283870942fbd090213fc7f61813687540503
+2021-07-08 21:22:35,348 Buy transaction confirmed
+2021-07-08 21:22:36,693 Checking the condition, current price:0.00316197, buy price:0.00316284
+2021-07-08 21:22:37,193 Checking the condition, current price:0.00316197, buy price:0.00316284
+2021-07-08 21:22:37,706 Checking the condition, current price:0.00316197, buy price:0.00316284
+2021-07-08 21:22:38,221 Checking the condition, current price:0.00316191, buy price:0.00316284
+2021-07-08 21:22:38,644 Start Sell
+2021-07-08 21:22:38,648 Sell Amount is bigger than balance, set to max..
+2021-07-08 21:22:38,649 Wait until transaction completed...
+2021-07-08 21:22:40,263 Sell transaction: 0x6d44694746b3b9dd440e396754bad8adefafcda28d224b9f9e20a580dc3fa8ef
+2021-07-08 21:22:47,895 Sell transaction confirmed
+2021-07-08 21:23:26,116 Read Config Success
+2021-07-08 21:23:30,772 Wallet Connected
+2021-07-08 21:23:38,650 Start Bot
+2021-07-08 21:23:39,019 Waiting liquidity to be added
+2021-07-08 21:23:42,177 Wait until transaction completed...
+2021-07-08 21:23:42,178 Buy transaction: 0xe67281081aab7100614c24ae089f0c3c909ed938e4ff00dea23581e54871aefb
+2021-07-08 21:23:47,696 Buy transaction confirmed
+2021-07-08 21:23:48,444 Checking the condition, current price:0.00316295, buy price:0.0031628
+2021-07-08 21:23:48,953 Checking the condition, current price:0.00316295, buy price:0.0031628
+2021-07-08 21:23:49,451 Checking the condition, current price:0.00316295, buy price:0.0031628
+2021-07-08 21:23:49,954 Checking the condition, current price:0.00316295, buy price:0.0031628
+2021-07-08 21:23:50,400 Start Sell
+2021-07-08 21:23:50,401 Sell Amount is bigger than balance, set to max..
+2021-07-08 21:23:50,402 Wait until transaction completed...
+2021-07-08 21:23:52,649 Sell transaction: 0x7d8e1d36011ad2b2997b58bb0936fb90f29859a9f1b3aeb5783a5b791fe779b9
+2021-07-08 21:23:55,475 Liquidity Added : 0x14d11484fe48c9382d87a750688cd30de8133c251089d441a7a75bad6b9b5e1c
+2021-07-08 21:23:55,477 Start Buy
+2021-07-08 21:23:55,949 Buy error: {'code': -32000, 'message': 'nonce too low'}
+2021-07-08 21:23:55,950 Retry ...
+2021-07-08 21:24:00,108 Sell transaction confirmed

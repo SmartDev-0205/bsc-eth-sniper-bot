@@ -1,0 +1,4 @@
+2021-07-23 21:49:14,566 Read Config Success
+2021-07-23 21:49:15,429 Wallet Not Connected
+2021-07-23 22:16:37,814 Token Address Wrong: 'NoneType' object has no attribute 'toChecksumAddress'
+2021-07-23 22:16:59,281 Token Address Wrong: 'NoneType' object has no attribute 'toChecksumAddress'

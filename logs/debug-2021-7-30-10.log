@@ -1,0 +1,81 @@
+2021-07-30 10:10:42,493 Read Config Success
+2021-07-30 10:10:45,093 Wallet Connected
+2021-07-30 10:10:47,182 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-30 10:10:59,044 Start Bot
+2021-07-30 10:10:59,051 Token Address : 0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56, Presale Address : 
+2021-07-30 10:10:59,052 Buy Amount : 0.001, Sell Amount Percent : 100%, Sell Price : 0%, Buy Speed : 1.0, Sell Speed : 0
+2021-07-30 10:10:59,425 Waiting liquidity to be added
+2021-07-30 10:11:03,941 Liquidity Added : 0xa20a9e477b3080a83812abf9f21ac5732b3d76d3064ab04f2715fd0373bd4eba
+2021-07-30 10:11:05,228 Buy transaction: 0x6fa1b719a3c167afd2c60cf5b4376b99429b25029e259b2503caee580d1accca
+2021-07-30 10:11:12,856 Buy transaction confirmed
+2021-07-30 10:11:12,858 Waiting Sell Moment....
+2021-07-30 10:11:14,119 Checking the condition, current price:100.00028%
+2021-07-30 10:11:14,999 Checking the condition, current price:100.00028%
+2021-07-30 10:11:15,864 Checking the condition, current price:100.00028%
+2021-07-30 10:11:16,724 Checking the condition, current price:100.00028%
+2021-07-30 10:11:17,630 Checking the condition, current price:100.00038%
+2021-07-30 10:11:17,652 Liquidity Added : 0x7fd97b11b8d20eca2a02f953b59add052bfe0756bd9d3aa0954d2a9d5fe8df37
+2021-07-30 10:11:18,518 Checking the condition, current price:100.00038%
+2021-07-30 10:11:18,724 Buy error: {'code': -32000, 'message': 'nonce too low'}
+2021-07-30 10:11:18,732 Retry ...
+2021-07-30 10:11:19,392 Checking the condition, current price:100.00038%
+2021-07-30 10:11:20,246 Checking the condition, current price:100.00015%
+2021-07-30 10:11:21,126 Checking the condition, current price:100.00015%
+2021-07-30 10:11:21,994 Checking the condition, current price:100.00015%
+2021-07-30 10:11:22,873 Checking the condition, current price:99.99996%
+2021-07-30 10:11:23,777 Checking the condition, current price:99.99996%
+2021-07-30 10:11:25,259 Checking the condition, current price:99.99996%
+2021-07-30 10:11:26,760 Checking the condition, current price:100.00011%
+2021-07-30 10:11:27,640 Checking the condition, current price:100.00011%
+2021-07-30 10:11:28,505 Checking the condition, current price:100.00011%
+2021-07-30 10:11:29,376 Checking the condition, current price:99.9999%
+2021-07-30 10:11:30,242 Checking the condition, current price:99.9999%
+2021-07-30 10:11:31,031 Checking the condition, current price:99.9999%
+2021-07-30 10:11:31,910 Checking the condition, current price:99.99978%
+2021-07-30 10:11:32,806 Checking the condition, current price:99.99978%
+2021-07-30 10:11:33,690 Checking the condition, current price:99.99978%
+2021-07-30 10:11:34,561 Checking the condition, current price:99.99978%
+2021-07-30 10:11:35,456 Checking the condition, current price:99.99862%
+2021-07-30 10:11:36,328 Checking the condition, current price:99.99862%
+2021-07-30 10:11:37,218 Checking the condition, current price:99.99862%
+2021-07-30 10:11:38,105 Checking the condition, current price:99.99719%
+2021-07-30 10:11:38,978 Checking the condition, current price:99.99719%
+2021-07-30 10:11:40,524 Checking the condition, current price:99.99719%
+2021-07-30 10:11:40,786 Stop Bot
+2021-07-30 10:12:29,140 Read Config Success
+2021-07-30 10:12:30,716 Wallet Connected
+2021-07-30 10:12:33,045 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-30 10:12:50,961 Token Address Wrong: Unknown format 0xe9e7cea3dedca5984780bafc599bd9add087d56, attempted to normalize to 0xe9e7cea3dedca5984780bafc599bd9add087d56
+2021-07-30 10:12:51,976 Get Settings Failed...
+2021-07-30 10:12:51,976 Please Input Buy Amount!
+2021-07-30 10:12:56,415 Get Settings Failed...
+2021-07-30 10:13:02,705 Token Address Wrong: Unknown format 0xe9e7cea3dedca5984780bafc599bd9add087d56, attempted to normalize to 0xe9e7cea3dedca5984780bafc599bd9add087d56
+2021-07-30 10:26:26,109 Read Config Success
+2021-07-30 10:26:27,561 Wallet Connected
+2021-07-30 10:26:29,812 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-30 10:26:39,725 Start Bot
+2021-07-30 10:26:39,733 Token Address : 0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56, Presale Address : 
+2021-07-30 10:26:39,736 Buy Amount : 0.001, Sell Amount Percent : 100%, Sell Price : 0%, Buy Speed : 1.0, Sell Speed : 0
+2021-07-30 10:26:40,116 Waiting liquidity to be added
+2021-07-30 10:26:44,504 Liquidity Added : 0xab697c77437bae926f5c8730e96c99de182a09c5d7d4607ed0ddab6fe80f6539
+2021-07-30 10:26:44,766 Buy transaction: 0x52a2462b7b29f18779598e620de2fdd39f369422e8661d722bc5048d24f2731d
+2021-07-30 10:26:46,432 Stop Bot
+2021-07-30 10:26:55,940 Buy transaction confirmed
+2021-07-30 10:26:55,940 Waiting Sell Moment....
+2021-07-30 10:51:31,172 Read Config Success
+2021-07-30 10:51:32,705 Wallet Connected
+2021-07-30 10:51:35,590 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-30 10:51:58,673 Start Bot
+2021-07-30 10:51:58,678 Token Address : 0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56, Presale Address : 
+2021-07-30 10:51:58,681 Buy Amount : 0.001, Sell Amount Percent : 100%, Sell Price : 90.0%, Buy Speed : 1.0, Sell Speed : 0
+2021-07-30 10:51:59,084 Waiting liquidity to be added
+2021-07-30 10:52:03,180 Liquidity Added : 0xdd8fc8438f2a72a96a85c1e665e1435a39494bc4aed2e4135265ff99abb80f65
+2021-07-30 10:52:03,546 Buy transaction: 0x2bdeaeb8e2360cc9cc47ec1dac5334349f2c5318e257f0f2a22756773c28766c
+2021-07-30 10:52:09,384 Buy transaction confirmed
+2021-07-30 10:52:09,391 Waiting Sell Moment....
+2021-07-30 10:52:09,760 Checking the condition, current price:100.0%
+2021-07-30 10:52:09,761 Start Sell
+2021-07-30 10:52:09,768 Wait until transaction completed...
+2021-07-30 10:52:13,873 Sell transaction: 0x37feb95923a4e974bcea39db65f280d2fb8f578ad26a80f6758db46e23a47b66
+2021-07-30 10:52:24,137 Sell transaction confirmed
+2021-07-30 10:54:14,186 Stop Bot

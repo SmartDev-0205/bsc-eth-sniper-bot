@@ -1,0 +1,28 @@
+2021-07-06 08:05:42,509 Config file read failed...
+2021-07-06 08:05:42,522 Wallet Not Connected
+2021-07-06 08:10:27,410 Config file read failed...
+2021-07-06 08:10:27,456 Wallet Not Connected
+2021-07-06 08:10:34,210 Config file read failed...
+2021-07-06 08:10:34,223 Wallet Not Connected
+2021-07-06 08:20:08,933 Config file read failed...
+2021-07-06 08:20:08,946 Wallet Not Connected
+2021-07-06 08:22:19,063 Config file read failed...
+2021-07-06 08:22:19,076 Wallet Not Connected
+2021-07-06 08:23:38,391 Config file read failed...
+2021-07-06 08:23:38,405 Wallet Not Connected
+2021-07-06 08:25:03,229 Config file read failed...
+2021-07-06 08:25:03,245 Wallet Not Connected
+2021-07-06 08:25:52,445 Config file read failed...
+2021-07-06 08:25:52,459 Wallet Not Connected
+2021-07-06 08:28:59,688 Read Config Success
+2021-07-06 08:29:01,923 Wallet Connected
+2021-07-06 08:29:31,919 Token Address Wrong: Unknown format 0xe9e7cea3ddca5984780bafc599bd69add087d56, attempted to normalize to 0xe9e7cea3ddca5984780bafc599bd69add087d56
+2021-07-06 08:30:14,673 Token Address Wrong: Unknown format 0xe9e7cea3dedca5984780bafc59bd69add087d56, attempted to normalize to 0xe9e7cea3dedca5984780bafc59bd69add087d56
+2021-07-06 08:53:36,240 Read Config Success
+2021-07-06 08:53:38,992 Wallet Connected
+2021-07-06 08:55:03,628 Start Bot
+2021-07-06 08:55:04,105 Waiting liquidity to be added
+2021-07-06 08:55:16,276 Stop Bot
+2021-07-06 08:56:19,977 Start Bot
+2021-07-06 08:56:20,565 Waiting liquidity to be added
+2021-07-06 08:56:21,546 Stop Bot

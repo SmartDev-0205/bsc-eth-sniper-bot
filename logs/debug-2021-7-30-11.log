@@ -1,0 +1,43 @@
+2021-07-30 11:13:12,581 Read Config Success
+2021-07-30 11:13:13,985 Wallet Connected
+2021-07-30 11:13:16,171 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-30 11:13:28,829 Start Bot
+2021-07-30 11:13:28,836 Token Address : 0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56, Presale Address : 
+2021-07-30 11:13:28,837 Buy Amount : 0.001, Sell Amount Percent : 100%, Sell Price : 0%, Buy Speed : 1.0, Sell Speed : 0
+2021-07-30 11:13:29,200 Waiting liquidity to be added
+2021-07-30 11:13:36,557 Liquidity Added : 0xf4b6ed9e5e530b3679d06ad62c3dd991dcfa744ff1c6868d2d51831b50d71e9c
+2021-07-30 11:13:36,846 Buy transaction: 0xcc6656469ae039379f0c104b3bb9c36207adfa82e34283fb980c30306f40833d
+2021-07-30 11:13:45,152 Buy transaction confirmed
+2021-07-30 11:13:45,153 Waiting Sell Moment....
+2021-07-30 11:13:45,496 Checking the condition, current price:100.0%
+2021-07-30 11:13:47,090 Checking the condition, current price:99.99911%
+2021-07-30 11:13:47,879 Checking the condition, current price:99.99911%
+2021-07-30 11:13:48,763 Checking the condition, current price:99.99911%
+2021-07-30 11:13:49,606 Checking the condition, current price:99.99962%
+2021-07-30 11:13:50,483 Checking the condition, current price:99.99962%
+2021-07-30 11:13:50,912 Start Sell
+2021-07-30 11:13:50,913 Wait until transaction completed...
+2021-07-30 11:13:54,835 Sell transaction: 0xf4913d3b0ef84f5233a850c5c5aab0696632a9e4b9aae5f32dbe4af10a203d65
+2021-07-30 11:13:58,536 Sell transaction confirmed
+2021-07-30 11:15:10,872 Read Config Success
+2021-07-30 11:15:14,051 Wallet Connected
+2021-07-30 11:15:15,913 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-30 11:15:25,190 Start Bot
+2021-07-30 11:15:25,196 Token Address : 0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56, Presale Address : 
+2021-07-30 11:15:25,196 Buy Amount : 0.001, Sell Amount Percent : 100%, Sell Price : 0%, Buy Speed : 1.0, Sell Speed : 1
+2021-07-30 11:15:25,552 Waiting liquidity to be added
+2021-07-30 11:15:26,000 Stop Bot
+2021-07-30 11:16:20,456 Read Config Success
+2021-07-30 11:16:24,665 Wallet Connected
+2021-07-30 11:16:26,657 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-30 11:33:56,979 Read Config Success
+2021-07-30 11:33:58,468 Wallet Connected
+2021-07-30 11:34:00,620 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-30 11:34:46,706 Please Input Buy Amount!
+2021-07-30 11:34:52,823 Start Bot
+2021-07-30 11:34:52,829 Token Address : 0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56, Presale Address : 
+2021-07-30 11:34:52,832 Buy Amount : 0.001, Sell Amount Percent : 100%, Sell Price : 0%, Buy Speed : 1.0, Sell Speed : 1.0
+2021-07-30 11:34:53,202 Waiting liquidity to be added
+2021-07-30 11:35:12,645 Liquidity Added : 0x5983f42d448d7f7a36474ed0f1074461737a6165159715d01a3b6da8b34af032
+2021-07-30 11:35:12,990 Buy error: {'code': -32000, 'message': 'insufficient funds for gas * price + value'}
+2021-07-30 11:35:12,992 Retry ...

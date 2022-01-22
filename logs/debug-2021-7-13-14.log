@@ -1,0 +1,107 @@
+2021-07-13 14:13:26,173 Read Config Success
+2021-07-13 14:13:28,490 Wallet Connected
+2021-07-13 14:14:58,413 Please Input Buy Amount!
+2021-07-13 14:15:03,384 Start Bot
+2021-07-13 14:15:03,628 Waiting liquidity to be added
+2021-07-13 14:15:11,276 Stop Bot
+2021-07-13 14:15:15,646 Start Bot
+2021-07-13 14:15:29,982 Read Config Success
+2021-07-13 14:15:31,050 Wallet Connected
+2021-07-13 14:15:39,196 Start Bot
+2021-07-13 14:15:40,378 Waiting Until Buy Confirm
+2021-07-13 14:15:40,765 Buy transaction: 0xdac17eb8c67b084b81f602b6b1106409f354be9ae2854d960724dda713bec1f9
+2021-07-13 14:15:47,178 Buy transaction confirmed
+2021-07-13 14:15:47,180 Waiting Sell Moment....
+2021-07-13 14:15:47,704 Checking the condition, current price:0.00320406, buy price:0.00320406
+2021-07-13 14:15:48,356 Checking the condition, current price:0.00320406, buy price:0.00320406
+2021-07-13 14:15:48,796 Start Sell
+2021-07-13 14:15:48,801 Wait until transaction completed...
+2021-07-13 14:15:48,805 Sell Amount is bigger than balance, set to max..
+2021-07-13 14:15:49,325 Checking the condition, current price:0.00320406, buy price:0.00320406
+2021-07-13 14:15:50,155 Sell transaction: 0x48a19ecbdf76dab6233d4ababafda701c2d641e0b2042dfab71689c6d7828798
+2021-07-13 14:16:53,053 Read Config Success
+2021-07-13 14:16:54,333 Wallet Connected
+2021-07-13 14:17:21,228 Please Input Buy Amount!
+2021-07-13 14:33:32,545 Start Bot
+2021-07-13 14:33:32,785 Waiting liquidity to be added
+2021-07-13 14:33:32,788 Waiting Sell Moment....
+2021-07-13 14:33:33,224 Checking the condition, current price:0.00320167, buy price:0.0
+2021-07-13 14:33:33,225 Start Sell
+2021-07-13 14:33:33,225 Wait until transaction completed...
+2021-07-13 14:33:34,725 Sell transaction: 0xd99c6f35098a1cb49562c0a134021f675ed997fd10d0d4aef8015d367d74d2ee
+2021-07-13 14:33:41,248 Sell transaction confirmed
+2021-07-13 14:33:42,982 Waiting Until Buy Confirm
+2021-07-13 14:33:43,285 Buy error: {'code': -32000, 'message': 'nonce too low'}
+2021-07-13 14:33:43,287 Retry ...
+2021-07-13 14:33:50,245 Stop Bot
+2021-07-13 14:34:53,617 Read Config Success
+2021-07-13 14:34:55,516 Wallet Connected
+2021-07-13 14:35:11,412 Start Bot
+2021-07-13 14:35:11,710 Waiting liquidity to be added
+2021-07-13 14:35:11,716 Waiting Sell Moment....
+2021-07-13 14:35:12,778 Checking the condition, current price:0.00319989, buy price:0.0
+2021-07-13 14:35:12,780 Start Sell
+2021-07-13 14:35:12,781 Wait until transaction completed...
+2021-07-13 14:35:14,548 Sell transaction: 0x08a0b219f21f710016760f3268b4cff3aba0f9267dc704651cf59a8726cda60e
+2021-07-13 14:35:20,040 Sell transaction confirmed
+2021-07-13 14:36:03,800 Read Config Success
+2021-07-13 14:36:08,452 Wallet Connected
+2021-07-13 14:36:17,214 Start Bot
+2021-07-13 14:36:17,608 Waiting liquidity to be added
+2021-07-13 14:36:22,294 Waiting Sell Moment....
+2021-07-13 14:36:23,102 Checking the condition, current price:0.00319967, buy price:0.0
+2021-07-13 14:36:23,103 Start Sell
+2021-07-13 14:36:23,103 Wait until transaction completed...
+2021-07-13 14:36:25,112 Sell transaction: 0x150cc1003afcdfa2d16c406c7623db121a3cc6c6a98d40dd75ef8b62c9a312fc
+2021-07-13 14:36:31,431 Sell transaction confirmed
+2021-07-13 14:37:33,984 Read Config Success
+2021-07-13 14:37:36,187 Wallet Connected
+2021-07-13 14:37:46,893 Read Config Success
+2021-07-13 14:37:48,153 Wallet Connected
+2021-07-13 14:37:56,049 Start Bot
+2021-07-13 14:37:56,371 Waiting liquidity to be added
+2021-07-13 14:37:59,519 Waiting Sell Moment....
+2021-07-13 14:38:00,312 Checking the condition, current price:0.00319788, buy price:0.0
+2021-07-13 14:41:33,631 Read Config Success
+2021-07-13 14:41:39,066 Wallet Connected
+2021-07-13 14:46:16,510 Read Config Success
+2021-07-13 14:46:18,505 Wallet Connected
+2021-07-13 14:46:31,790 Start Bot
+2021-07-13 14:46:31,998 Waiting liquidity to be added
+2021-07-13 14:46:32,000 Waiting Sell Moment....
+2021-07-13 14:46:32,466 Checking the condition, current price:0.00318951, buy price:0.00318951
+2021-07-13 14:46:33,166 Checking the condition, current price:0.00318951, buy price:0.00318951
+2021-07-13 14:46:33,919 Checking the condition, current price:0.00318951, buy price:0.00318951
+2021-07-13 14:46:34,599 Checking the condition, current price:0.00318949, buy price:0.00318949
+2021-07-13 14:46:35,376 Checking the condition, current price:0.00318949, buy price:0.00318949
+2021-07-13 14:46:36,673 Checking the condition, current price:0.00318949, buy price:0.00318949
+2021-07-13 14:46:37,415 Checking the condition, current price:0.00318949, buy price:0.00318949
+2021-07-13 14:46:38,184 Checking the condition, current price:0.00318949, buy price:0.00318949
+2021-07-13 14:46:39,007 Checking the condition, current price:0.00318949, buy price:0.00318949
+2021-07-13 14:46:40,752 Checking the condition, current price:0.00318949, buy price:0.00318949
+2021-07-13 14:46:41,629 Checking the condition, current price:0.00318949, buy price:0.00318949
+2021-07-13 14:46:42,458 Checking the condition, current price:0.00318949, buy price:0.00318949
+2021-07-13 14:46:43,089 Checking the condition, current price:0.00318949, buy price:0.00318949
+2021-07-13 14:46:44,000 Checking the condition, current price:0.00318949, buy price:0.00318949
+2021-07-13 14:46:44,632 Checking the condition, current price:0.00318949, buy price:0.00318949
+2021-07-13 14:46:45,530 Checking the condition, current price:0.00318949, buy price:0.00318949
+2021-07-13 14:46:45,699 Start Sell
+2021-07-13 14:46:45,700 Wait until transaction completed...
+2021-07-13 14:46:46,414 Checking the condition, current price:0.0031895, buy price:0.0031895
+2021-07-13 14:46:48,010 Sell transaction: 0xf7105c9a0f1eab226eaee37fac0ded86210a5f946b43c3163232114ed9d753b3
+2021-07-13 14:46:52,443 Sell transaction confirmed
+2021-07-13 14:46:56,892 Stop Bot
+2021-07-13 14:47:03,832 Start Bot
+2021-07-13 14:47:12,349 Waiting Until Buy Confirm
+2021-07-13 14:47:12,797 Buy transaction: 0xe69b06628878209f2aaccba89531c7620f1612af590664f1804c23f47cd78b2b
+2021-07-13 14:47:20,693 Buy transaction confirmed
+2021-07-13 14:47:20,694 Waiting Sell Moment....
+2021-07-13 14:47:21,256 Checking the condition, current price:0.00318952, buy price:0.00318952
+2021-07-13 14:47:22,182 Checking the condition, current price:0.00318952, buy price:0.00318952
+2021-07-13 14:47:23,085 Checking the condition, current price:0.00318952, buy price:0.00318952
+2021-07-13 14:47:23,299 Start Sell
+2021-07-13 14:47:23,302 Wait until transaction completed...
+2021-07-13 14:47:23,977 Checking the condition, current price:0.00318952, buy price:0.00318952
+2021-07-13 14:47:25,082 Sell transaction: 0x4a787a71da224e6d56966bca16fa798283575dc1d2f039606b9f25b2899212c2
+2021-07-13 14:47:32,831 Sell transaction confirmed
+2021-07-13 14:47:42,910 Stop Bot

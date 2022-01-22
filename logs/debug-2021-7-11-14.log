@@ -1,0 +1,86 @@
+2021-07-11 14:10:22,007 Read Config Success
+2021-07-11 14:10:23,400 Wallet Connected
+2021-07-11 14:11:53,940 Read Config Success
+2021-07-11 14:11:55,797 Wallet Connected
+2021-07-11 14:14:14,046 Read Config Success
+2021-07-11 14:14:15,357 Wallet Connected
+2021-07-11 14:15:12,158 Read Config Success
+2021-07-11 14:15:13,755 Wallet Connected
+2021-07-11 14:16:40,719 Read Config Success
+2021-07-11 14:16:41,977 Wallet Connected
+2021-07-11 14:21:59,715 Read Config Success
+2021-07-11 14:22:01,650 Wallet Connected
+2021-07-11 14:23:33,533 Read Config Success
+2021-07-11 14:23:34,797 Wallet Connected
+2021-07-11 14:24:21,377 Token Address Wrong: Unknown format 2, attempted to normalize to 0x2
+2021-07-11 14:24:21,385 Token Address Wrong: Unknown format 21, attempted to normalize to 0x21
+2021-07-11 14:24:21,611 Token Address Wrong: Unknown format 213, attempted to normalize to 0x213
+2021-07-11 14:24:21,620 Token Address Wrong: Unknown format 2134, attempted to normalize to 0x2134
+2021-07-11 14:24:21,727 Token Address Wrong: Unknown format 21341, attempted to normalize to 0x21341
+2021-07-11 14:24:21,736 Token Address Wrong: Unknown format 213412, attempted to normalize to 0x213412
+2021-07-11 14:24:21,931 Token Address Wrong: Unknown format 2134123, attempted to normalize to 0x2134123
+2021-07-11 14:24:22,073 Token Address Wrong: Unknown format 21341231, attempted to normalize to 0x21341231
+2021-07-11 14:24:22,139 Token Address Wrong: Unknown format 213412312, attempted to normalize to 0x213412312
+2021-07-11 14:24:22,794 Token Address Wrong: Unknown format 213412312f, attempted to normalize to 0x213412312f
+2021-07-11 14:24:22,928 Token Address Wrong: Unknown format 213412312fd, attempted to normalize to 0x213412312fd
+2021-07-11 14:24:22,945 Token Address Wrong: when sending a str, it must be a hex string. Got: '213412312fds'
+2021-07-11 14:24:23,128 Token Address Wrong: when sending a str, it must be a hex string. Got: '213412312fdsf'
+2021-07-11 14:24:23,418 Token Address Wrong: when sending a str, it must be a hex string. Got: '213412312fdsfe'
+2021-07-11 14:24:23,424 Token Address Wrong: when sending a str, it must be a hex string. Got: '213412312fdsfew'
+2021-07-11 14:24:23,618 Token Address Wrong: when sending a str, it must be a hex string. Got: '213412312fdsfewr'
+2021-07-11 14:24:23,755 Token Address Wrong: when sending a str, it must be a hex string. Got: '213412312fdsfewrw'
+2021-07-11 14:24:23,776 Token Address Wrong: when sending a str, it must be a hex string. Got: '213412312fdsfewrwe'
+2021-07-11 14:24:25,290 Token Address Wrong: when sending a str, it must be a hex string. Got: '213412312fdsfewrw'
+2021-07-11 14:24:25,791 Token Address Wrong: when sending a str, it must be a hex string. Got: '213412312fdsfewr'
+2021-07-11 14:24:25,837 Token Address Wrong: when sending a str, it must be a hex string. Got: '213412312fdsfew'
+2021-07-11 14:24:25,868 Token Address Wrong: when sending a str, it must be a hex string. Got: '213412312fdsfe'
+2021-07-11 14:24:25,901 Token Address Wrong: when sending a str, it must be a hex string. Got: '213412312fdsf'
+2021-07-11 14:24:25,933 Token Address Wrong: when sending a str, it must be a hex string. Got: '213412312fds'
+2021-07-11 14:24:25,963 Token Address Wrong: Unknown format 213412312fd, attempted to normalize to 0x213412312fd
+2021-07-11 14:24:25,994 Token Address Wrong: Unknown format 213412312f, attempted to normalize to 0x213412312f
+2021-07-11 14:24:26,025 Token Address Wrong: Unknown format 213412312, attempted to normalize to 0x213412312
+2021-07-11 14:24:26,056 Token Address Wrong: Unknown format 21341231, attempted to normalize to 0x21341231
+2021-07-11 14:24:26,087 Token Address Wrong: Unknown format 2134123, attempted to normalize to 0x2134123
+2021-07-11 14:24:26,120 Token Address Wrong: Unknown format 213412, attempted to normalize to 0x213412
+2021-07-11 14:24:26,168 Token Address Wrong: Unknown format 21341, attempted to normalize to 0x21341
+2021-07-11 14:24:26,199 Token Address Wrong: Unknown format 2134, attempted to normalize to 0x2134
+2021-07-11 14:24:26,228 Token Address Wrong: Unknown format 213, attempted to normalize to 0x213
+2021-07-11 14:24:26,260 Token Address Wrong: Unknown format 21, attempted to normalize to 0x21
+2021-07-11 14:24:26,292 Token Address Wrong: Unknown format 2, attempted to normalize to 0x2
+2021-07-11 14:24:26,323 Token Address Wrong: Unknown format , attempted to normalize to 0x
+2021-07-11 14:26:10,724 Read Config Success
+2021-07-11 14:26:12,307 Wallet Connected
+2021-07-11 14:28:11,722 Read Config Success
+2021-07-11 14:28:13,050 Wallet Connected
+2021-07-11 14:38:41,718 Read Config Success
+2021-07-11 14:38:43,057 Wallet Connected
+2021-07-11 14:42:27,777 Read Config Success
+2021-07-11 14:42:29,281 Wallet Connected
+2021-07-11 14:42:41,193 Token Address Invalid(example: 0xe9e7cea3dedca5984780bafc599bd69add087d56
+2021-07-11 14:42:51,154 Token Address Wrong: Unknown format , attempted to normalize to 0x
+2021-07-11 14:43:54,908 Read Config Success
+2021-07-11 14:43:56,150 Wallet Connected
+2021-07-11 14:44:38,298 Read Config Success
+2021-07-11 14:44:39,532 Wallet Connected
+2021-07-11 14:45:13,115 Start Bot
+2021-07-11 14:45:13,329 Waiting liquidity to be added
+2021-07-11 14:45:17,877 Read Config Success
+2021-07-11 14:45:18,941 Wallet Connected
+2021-07-11 14:46:02,584 Read Config Success
+2021-07-11 14:46:04,259 Wallet Connected
+2021-07-11 14:47:46,616 Read Config Success
+2021-07-11 14:47:48,619 Wallet Connected
+2021-07-11 14:48:58,990 Read Config Success
+2021-07-11 14:49:00,628 Wallet Connected
+2021-07-11 14:49:10,063 Read Config Success
+2021-07-11 14:49:11,097 Wallet Connected
+2021-07-11 14:50:13,804 Read Config Success
+2021-07-11 14:50:16,009 Wallet Connected
+2021-07-11 14:50:50,578 Read Config Success
+2021-07-11 14:50:51,835 Wallet Connected
+2021-07-11 14:52:21,144 Read Config Success
+2021-07-11 14:52:23,356 Wallet Connected
+2021-07-11 14:53:41,344 Read Config Success
+2021-07-11 14:53:42,586 Wallet Connected
+2021-07-11 14:54:58,931 Read Config Success
+2021-07-11 14:55:00,230 Wallet Connected

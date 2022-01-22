@@ -1,0 +1,15 @@
+2021-07-09 19:54:29,447 Read Config Success
+2021-07-09 19:54:33,415 Wallet Connected
+2021-07-09 19:54:49,834 Token Address Wrong: when sending a str, it must be a hex string. Got: 'https://testnet.binance.org/faucet-smart'
+2021-07-09 19:55:02,230 Read Config Success
+2021-07-09 19:55:03,517 Wallet Connected
+2021-07-09 19:56:43,304 Read Config Success
+2021-07-09 19:56:47,137 Wallet Connected
+2021-07-09 19:56:59,816 Start Bot
+2021-07-09 19:57:00,209 Waiting liquidity to be added
+2021-07-09 19:57:08,765 Stop Bot
+2021-07-09 19:57:14,742 Start Bot
+2021-07-09 19:57:19,595 Wait until transaction completed...
+2021-07-09 19:57:19,599 Buy transaction: 0xf142fca3e929e162beaf92e0ed74e0ebc47f1d138b6ac8a1cfdcf2c52312e3e4
+2021-07-09 19:59:09,305 Buy transaction confirmed
+2021-07-09 19:59:09,708 Approving: 0xf142fca3e929e162beaf92e0ed74e0ebc47f1d138b6ac8a1cfdcf2c52312e3e4

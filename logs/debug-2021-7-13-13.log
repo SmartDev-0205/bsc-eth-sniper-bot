@@ -1,0 +1,14 @@
+2021-07-13 13:52:24,791 Read Config Success
+2021-07-13 13:52:26,754 Wallet Connected
+2021-07-13 13:52:45,321 Start Bot
+2021-07-13 13:52:45,591 Waiting Sell Moment....
+2021-07-13 13:52:46,197 Checking the condition, current price:0.00318266, buy price:0.0
+2021-07-13 13:52:46,198 Start Sell
+2021-07-13 13:52:46,199 Wait until transaction completed...
+2021-07-13 13:52:48,988 Sell transaction: 0x90edf1450c81ba6756268b701b04dc35e04980cd9d1ec3820fcc877d4b751f14
+2021-07-13 13:53:11,646 Waiting Until Buy Confirm
+2021-07-13 13:53:12,043 Buy error: {'code': -32000, 'message': 'nonce too low'}
+2021-07-13 13:53:12,043 Retry ...
+2021-07-13 13:53:19,501 Stop Bot
+2021-07-13 13:59:07,478 Sell transaction failed
+2021-07-13 13:59:32,606 Buy transaction failed

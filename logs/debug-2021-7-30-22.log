@@ -1,0 +1,50 @@
+2021-07-30 22:00:57,153 Read Config Success
+2021-07-30 22:00:58,288 Wallet Connected
+2021-07-30 22:00:59,809 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-30 22:32:35,280 Read Config Success
+2021-07-30 22:32:36,572 Wallet Connected
+2021-07-30 22:32:38,762 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-30 22:37:33,426 Read Config Success
+2021-07-30 22:37:34,313 Wallet Connected
+2021-07-30 22:37:35,650 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-30 22:38:00,420 Read Config Success
+2021-07-30 22:38:01,311 Wallet Connected
+2021-07-30 22:38:02,616 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-30 22:39:31,813 Read Config Success
+2021-07-30 22:39:32,741 Wallet Connected
+2021-07-30 22:39:34,067 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-30 22:39:50,424 Start Bot
+2021-07-30 22:39:50,432 Token Address : 0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56, Presale Address : 
+2021-07-30 22:39:50,433 Buy Amount : 0.001, Sell Amount Percent : 100%, Sell Price : 0%, Buy Speed : 1.0, Sell Speed : 1.0
+2021-07-30 22:39:50,660 Waiting liquidity to be added
+2021-07-30 22:40:28,631 Liquidity Added : 0xeb4c45beaa98cd54fa22be466f3ed353d3fff6119cea28dda408076f01455ae2
+2021-07-30 22:40:38,736 Buy error: list index out of range
+2021-07-30 22:40:38,737 Retry ...
+2021-07-30 22:40:44,307 Stop Bot
+2021-07-30 22:41:23,527 Read Config Success
+2021-07-30 22:41:24,425 Wallet Connected
+2021-07-30 22:41:25,556 Access Level Tier 3: Snipping,Max Speed:10, Auto Sells, Limit Sells, Limit Buys, Stop Loss
+2021-07-30 22:43:37,214 Start Bot
+2021-07-30 22:43:37,222 Token Address : 0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56, Presale Address : 
+2021-07-30 22:43:37,229 Buy Amount : 0.001, Sell Amount Percent : 100%, Sell Price : 0%, Buy Speed : 1.0, Sell Speed : 1.0
+2021-07-30 22:43:37,472 Waiting liquidity to be added
+2021-07-30 22:43:39,320 Liquidity Added : 0xe6255d2cd1a5229333d33ff1bad06af19fbb47e4b480719ada685af320590b53
+2021-07-30 22:43:39,548 Buy error: {'code': -32000, 'message': 'insufficient funds for gas * price + value'}
+2021-07-30 22:43:39,549 Retry ...
+2021-07-30 22:43:49,492 Stop Bot
+2021-07-30 22:43:55,689 Start Bot
+2021-07-30 22:43:55,697 Token Address : 0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56, Presale Address : 
+2021-07-30 22:43:55,698 Buy Amount : 0.001, Sell Amount Percent : 100%, Sell Price : 0%, Buy Speed : 1.0, Sell Speed : 1.0
+2021-07-30 22:43:55,913 Waiting liquidity to be added
+2021-07-30 22:44:12,824 Liquidity Added : 0xbc15806300a01018dabd216d011ee2c05b7b1661601f0ceffe1598e50fbf5031
+2021-07-30 22:44:23,189 Buy error: {'code': -32000, 'message': 'insufficient funds for gas * price + value'}
+2021-07-30 22:44:23,190 Retry ...
+2021-07-30 22:44:29,766 Stop Bot
+2021-07-30 22:44:31,595 Start Bot
+2021-07-30 22:44:31,600 Token Address : 0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56, Presale Address : 
+2021-07-30 22:44:31,605 Buy Amount : 0.001, Sell Amount Percent : 100%, Sell Price : 0%, Buy Speed : 1.0, Sell Speed : 1.0
+2021-07-30 22:44:31,826 Waiting liquidity to be added
+2021-07-30 22:44:37,648 Liquidity Added : 0x45be8acfa573abc00fd9195dadde8dbc5955937c05ac43182fdfdc5083c119e2
+2021-07-30 22:44:47,864 Buy error: {'code': -32000, 'message': 'insufficient funds for gas * price + value'}
+2021-07-30 22:44:47,865 Retry ...
+2021-07-30 22:44:49,798 Stop Bot
